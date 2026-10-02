@@ -1,0 +1,13 @@
+ingredient,supplier,unit,on_hand,reorder_level,price_jun_gbp,price_now_gbp,last_price_change,stock_status
+Ceremonial matcha (Uji),Uji Leaf Co.,kg,3.2,4,168,232,2026-09-01,REORDER
+Culinary matcha,Uji Leaf Co.,kg,6.5,5,62,78,2026-09-01,OK
+Strong white bread flour,Allinson Mills,25kg sack,14,8,21.5,21.5,2026-03-01,OK
+Hokkaido-style milk powder,Japan Centre Wholesale,kg,9,6,14.2,14.2,2026-05-12,OK
+Sweet red bean paste (anko),Japan Centre Wholesale,kg,22,15,7.8,8.1,2026-08-04,OK
+Double cream,Hackney Dairy Co.,litre,18,20,4.6,4.6,2026-06-01,REORDER
+Unsalted butter,Hackney Dairy Co.,kg,25,15,9.4,9.9,2026-07-15,OK
+Whole milk,Hackney Dairy Co.,litre,60,50,1.15,1.15,2026-04-01,OK
+Oat milk (barista),Oatly,litre,44,30,2.1,2.1,2026-01-10,OK
+Hojicha leaf,Uji Leaf Co.,kg,2.1,1.5,48,52,2026-09-01,OK
+Japanese curry roux,Japan Centre Wholesale,kg,7,5,11.3,11.3,2026-02-20,OK
+Kabocha squash,New Spitalfields Market,kg,0,12,2.4,2.4,2026-09-20,REORDER

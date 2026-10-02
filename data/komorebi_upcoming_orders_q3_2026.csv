@@ -1,0 +1,18 @@
+order_id,ordered,customer,area,type,items,due_date,value_gbp,deposit_gbp,balance_due_gbp,status,fulfilment
+KB-1041,2026-09-29,Broadway Creative Studio,Ealing,Corporate catering,"40 × assorted pan, 2 × shokupan sandos platter",2026-10-06,268,80.4,187.6,Deposit paid,Delivery
+KB-1042,2026-09-18,Aiko Tanaka,Ealing Common,Celebration cake,"Matcha layer cake, 8-inch, 'Happy 30th Ken'",2026-10-08,62,0,62,Confirmed,Collection
+KB-1043,2026-09-25,St Saviour's Primary PTA,West Ealing,Event / fete,"120 × mini dorayaki, 60 × taiyaki",2026-10-10,495,148.5,346.5,Deposit paid,Delivery
+KB-1044,2026-09-23,Northfields Yoga Collective,Northfields,Corporate catering,"Hojicha + matcha latte flasks (30 cups), 30 × anpan",2026-10-11,236,0,236,Awaiting deposit,Delivery
+KB-1045,2026-09-25,Priya & Tom Shah,Hanwell,Celebration cake,"Matcha roll cake ×2, gold leaf",2026-10-14,88,0,88,Confirmed,Collection
+KB-1046,2026-09-08,Gunnersbury Park Museum,Acton,Event / fete,Autumn lates — 200 × matcha melon pan,2026-10-17,640,192,448,In production,Delivery
+KB-1047,2026-09-16,Ealing Dental Partners,Ealing Broadway,Corporate catering,Team breakfast: 25 × assorted pan + drinks,2026-10-20,198,0,198,Confirmed,Delivery
+KB-1048,2026-09-30,Hiro Watanabe,Chiswick,Celebration cake,Matcha dome mousse tower (24 domes),2026-10-23,210,0,210,Awaiting deposit,Collection
+KB-1049,2026-09-14,Pitshanger Lane Book Club,Pitshanger,Corporate catering,"12 × dorayaki, 12 × melon pan, sencha pot ×3",2026-10-24,96,0,96,Confirmed,Collection
+KB-1050,2026-09-30,Acton Town Hall events,Acton,Event / fete,"Halloween: 150 × kabocha anpan, 80 × taiyaki",2026-10-30,812,243.6,568.4,Deposit paid,Delivery
+KB-1051,2026-09-30,Mei Lin,South Ealing,Celebration cake,"Matcha layer cake, 10-inch, Halloween theme",2026-10-31,78,0,78,Confirmed,Collection
+KB-1052,2026-09-26,Brentham Club,Ealing,Event / fete,"Bonfire night: 100 × curry pan, 100 × hojicha",2026-11-05,905,0,905,Awaiting deposit,Delivery
+KB-1053,2026-09-03,Shah & Patel family,Southall,Celebration cake,Diwali: 3 × matcha layer cake + 60 × mini dorayaki,2026-11-07,342,102.6,239.4,Deposit paid,Collection
+KB-1054,2026-09-28,Ealing Broadway Business Assoc.,Ealing Broadway,Corporate catering,Christmas lights switch-on: 300 × taiyaki,2026-11-19,1150,0,1150,Quote sent,Delivery
+KB-1055,2026-09-28,Kenji & Laura Mori,Hanwell,Celebration cake,"Wedding: 3-tier matcha & yuzu cake, 80 guests",2026-11-21,680,204,476,Deposit paid,Delivery
+KB-1056,2026-09-28,West London Film Society,Ealing,Corporate catering,"Screening night: 50 × melon pan, 50 × iced matcha",2026-11-26,420,0,420,Quote sent,Delivery
+KB-1057,2026-10-02,Sophie Clarke,Ealing Common,Celebration cake,"Matcha roll cake, 'Congrats Dr Clarke'",2026-11-28,46,0,46,Confirmed,Collection

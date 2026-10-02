@@ -1,0 +1,1289 @@
+date,day,product,category,units_sold,unit_price_gbp,revenue_gbp,unit_cost_gbp,cogs_gbp
+2026-07-01,Wed,Matcha Melon Pan,Bread,37,3.8,140.6,1.05,38.85
+2026-07-01,Wed,Classic Melon Pan,Bread,24,3.4,81.6,0.85,20.4
+2026-07-01,Wed,Anpan,Bread,21,3.2,67.2,0.95,19.95
+2026-07-01,Wed,Curry Pan,Bread,20,4.2,84,1.4,28
+2026-07-01,Wed,Shokupan Loaf,Bread,16,6.5,104,1.7,27.2
+2026-07-01,Wed,Dorayaki,Sweets,21,3.6,75.6,1.1,23.1
+2026-07-01,Wed,Taiyaki (Red Bean),Sweets,28,3.5,98,1.35,37.8
+2026-07-01,Wed,Matcha Roll Cake (slice),Cakes,17,5.8,98.6,2.9,49.3
+2026-07-01,Wed,Matcha Layer Cake (slice),Cakes,16,6.2,99.2,2.7,43.2
+2026-07-01,Wed,Matcha Dome Mousse,Cakes,12,6.8,81.6,3.7,44.4
+2026-07-01,Wed,Matcha Latte,Drinks,45,4.6,207,1.25,56.25
+2026-07-01,Wed,Iced Matcha,Drinks,40,4.9,196,1.45,58
+2026-07-01,Wed,Hojicha Latte,Drinks,18,4.4,79.2,1.1,19.8
+2026-07-01,Wed,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-07-02,Thu,Matcha Melon Pan,Bread,46,3.8,174.8,1.05,48.3
+2026-07-02,Thu,Classic Melon Pan,Bread,29,3.4,98.6,0.85,24.65
+2026-07-02,Thu,Anpan,Bread,20,3.2,64,0.95,19
+2026-07-02,Thu,Curry Pan,Bread,22,4.2,92.4,1.4,30.8
+2026-07-02,Thu,Shokupan Loaf,Bread,16,6.5,104,1.7,27.2
+2026-07-02,Thu,Dorayaki,Sweets,24,3.6,86.4,1.1,26.4
+2026-07-02,Thu,Taiyaki (Red Bean),Sweets,29,3.5,101.5,1.35,39.15
+2026-07-02,Thu,Matcha Roll Cake (slice),Cakes,18,5.8,104.4,2.9,52.2
+2026-07-02,Thu,Matcha Layer Cake (slice),Cakes,15,6.2,93,2.7,40.5
+2026-07-02,Thu,Matcha Dome Mousse,Cakes,14,6.8,95.2,3.7,51.8
+2026-07-02,Thu,Matcha Latte,Drinks,63,4.6,289.8,1.25,78.75
+2026-07-02,Thu,Iced Matcha,Drinks,48,4.9,235.2,1.45,69.6
+2026-07-02,Thu,Hojicha Latte,Drinks,19,4.4,83.6,1.1,20.9
+2026-07-02,Thu,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-07-03,Fri,Matcha Melon Pan,Bread,52,3.8,197.6,1.05,54.6
+2026-07-03,Fri,Classic Melon Pan,Bread,31,3.4,105.4,0.85,26.35
+2026-07-03,Fri,Anpan,Bread,27,3.2,86.4,0.95,25.65
+2026-07-03,Fri,Curry Pan,Bread,24,4.2,100.8,1.4,33.6
+2026-07-03,Fri,Shokupan Loaf,Bread,23,6.5,149.5,1.7,39.1
+2026-07-03,Fri,Dorayaki,Sweets,30,3.6,108,1.1,33
+2026-07-03,Fri,Taiyaki (Red Bean),Sweets,33,3.5,115.5,1.35,44.55
+2026-07-03,Fri,Matcha Roll Cake (slice),Cakes,25,5.8,145,2.9,72.5
+2026-07-03,Fri,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,2.7,45.9
+2026-07-03,Fri,Matcha Dome Mousse,Cakes,16,6.8,108.8,3.7,59.2
+2026-07-03,Fri,Matcha Latte,Drinks,63,4.6,289.8,1.25,78.75
+2026-07-03,Fri,Iced Matcha,Drinks,53,4.9,259.7,1.45,76.85
+2026-07-03,Fri,Hojicha Latte,Drinks,26,4.4,114.4,1.1,28.6
+2026-07-03,Fri,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-07-04,Sat,Matcha Melon Pan,Bread,59,3.8,224.2,1.05,61.95
+2026-07-04,Sat,Classic Melon Pan,Bread,44,3.4,149.6,0.85,37.4
+2026-07-04,Sat,Anpan,Bread,38,3.2,121.6,0.95,36.1
+2026-07-04,Sat,Curry Pan,Bread,30,4.2,126,1.4,42
+2026-07-04,Sat,Shokupan Loaf,Bread,25,6.5,162.5,1.7,42.5
+2026-07-04,Sat,Dorayaki,Sweets,43,3.6,154.8,1.1,47.3
+2026-07-04,Sat,Taiyaki (Red Bean),Sweets,37,3.5,129.5,1.35,49.95
+2026-07-04,Sat,Matcha Roll Cake (slice),Cakes,27,5.8,156.6,2.9,78.3
+2026-07-04,Sat,Matcha Layer Cake (slice),Cakes,24,6.2,148.8,2.7,64.8
+2026-07-04,Sat,Matcha Dome Mousse,Cakes,17,6.8,115.6,3.7,62.9
+2026-07-04,Sat,Matcha Latte,Drinks,81,4.6,372.6,1.25,101.25
+2026-07-04,Sat,Iced Matcha,Drinks,92,4.9,450.8,1.45,133.4
+2026-07-04,Sat,Hojicha Latte,Drinks,32,4.4,140.8,1.1,35.2
+2026-07-04,Sat,Sencha (pot),Drinks,18,3.8,68.4,0.6,10.8
+2026-07-05,Sun,Matcha Melon Pan,Bread,68,3.8,258.4,1.05,71.4
+2026-07-05,Sun,Classic Melon Pan,Bread,44,3.4,149.6,0.85,37.4
+2026-07-05,Sun,Anpan,Bread,32,3.2,102.4,0.95,30.4
+2026-07-05,Sun,Curry Pan,Bread,31,4.2,130.2,1.4,43.4
+2026-07-05,Sun,Shokupan Loaf,Bread,21,6.5,136.5,1.7,35.7
+2026-07-05,Sun,Dorayaki,Sweets,32,3.6,115.2,1.1,35.2
+2026-07-05,Sun,Taiyaki (Red Bean),Sweets,33,3.5,115.5,1.35,44.55
+2026-07-05,Sun,Matcha Roll Cake (slice),Cakes,24,5.8,139.2,2.9,69.6
+2026-07-05,Sun,Matcha Layer Cake (slice),Cakes,21,6.2,130.2,2.7,56.7
+2026-07-05,Sun,Matcha Dome Mousse,Cakes,21,6.8,142.8,3.7,77.7
+2026-07-05,Sun,Matcha Latte,Drinks,70,4.6,322,1.25,87.5
+2026-07-05,Sun,Iced Matcha,Drinks,73,4.9,357.7,1.45,105.85
+2026-07-05,Sun,Hojicha Latte,Drinks,26,4.4,114.4,1.1,28.6
+2026-07-05,Sun,Sencha (pot),Drinks,19,3.8,72.2,0.6,11.4
+2026-07-06,Mon,Matcha Melon Pan,Bread,34,3.8,129.2,1.05,35.7
+2026-07-06,Mon,Classic Melon Pan,Bread,24,3.4,81.6,0.85,20.4
+2026-07-06,Mon,Anpan,Bread,23,3.2,73.6,0.95,21.85
+2026-07-06,Mon,Curry Pan,Bread,16,4.2,67.2,1.4,22.4
+2026-07-06,Mon,Shokupan Loaf,Bread,16,6.5,104,1.7,27.2
+2026-07-06,Mon,Dorayaki,Sweets,23,3.6,82.8,1.1,25.3
+2026-07-06,Mon,Taiyaki (Red Bean),Sweets,24,3.5,84,1.35,32.4
+2026-07-06,Mon,Matcha Roll Cake (slice),Cakes,19,5.8,110.2,2.9,55.1
+2026-07-06,Mon,Matcha Layer Cake (slice),Cakes,13,6.2,80.6,2.7,35.1
+2026-07-06,Mon,Matcha Dome Mousse,Cakes,11,6.8,74.8,3.7,40.7
+2026-07-06,Mon,Matcha Latte,Drinks,50,4.6,230,1.25,62.5
+2026-07-06,Mon,Iced Matcha,Drinks,40,4.9,196,1.45,58
+2026-07-06,Mon,Hojicha Latte,Drinks,21,4.4,92.4,1.1,23.1
+2026-07-06,Mon,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6
+2026-07-07,Tue,Matcha Melon Pan,Bread,40,3.8,152,1.05,42
+2026-07-07,Tue,Classic Melon Pan,Bread,24,3.4,81.6,0.85,20.4
+2026-07-07,Tue,Anpan,Bread,17,3.2,54.4,0.95,16.15
+2026-07-07,Tue,Curry Pan,Bread,17,4.2,71.4,1.4,23.8
+2026-07-07,Tue,Shokupan Loaf,Bread,15,6.5,97.5,1.7,25.5
+2026-07-07,Tue,Dorayaki,Sweets,21,3.6,75.6,1.1,23.1
+2026-07-07,Tue,Taiyaki (Red Bean),Sweets,26,3.5,91,1.35,35.1
+2026-07-07,Tue,Matcha Roll Cake (slice),Cakes,15,5.8,87,2.9,43.5
+2026-07-07,Tue,Matcha Layer Cake (slice),Cakes,12,6.2,74.4,2.7,32.4
+2026-07-07,Tue,Matcha Dome Mousse,Cakes,10,6.8,68,3.7,37
+2026-07-07,Tue,Matcha Latte,Drinks,52,4.6,239.2,1.25,65
+2026-07-07,Tue,Iced Matcha,Drinks,44,4.9,215.6,1.45,63.8
+2026-07-07,Tue,Hojicha Latte,Drinks,19,4.4,83.6,1.1,20.9
+2026-07-07,Tue,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-07-08,Wed,Matcha Melon Pan,Bread,45,3.8,171,1.05,47.25
+2026-07-08,Wed,Classic Melon Pan,Bread,25,3.4,85,0.85,21.25
+2026-07-08,Wed,Anpan,Bread,21,3.2,67.2,0.95,19.95
+2026-07-08,Wed,Curry Pan,Bread,23,4.2,96.6,1.4,32.2
+2026-07-08,Wed,Shokupan Loaf,Bread,16,6.5,104,1.7,27.2
+2026-07-08,Wed,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-07-08,Wed,Taiyaki (Red Bean),Sweets,23,3.5,80.5,1.35,31.05
+2026-07-08,Wed,Matcha Roll Cake (slice),Cakes,20,5.8,116,2.9,58
+2026-07-08,Wed,Matcha Layer Cake (slice),Cakes,13,6.2,80.6,2.7,35.1
+2026-07-08,Wed,Matcha Dome Mousse,Cakes,15,6.8,102,3.7,55.5
+2026-07-08,Wed,Matcha Latte,Drinks,50,4.6,230,1.25,62.5
+2026-07-08,Wed,Iced Matcha,Drinks,44,4.9,215.6,1.45,63.8
+2026-07-08,Wed,Hojicha Latte,Drinks,23,4.4,101.2,1.1,25.3
+2026-07-08,Wed,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6
+2026-07-09,Thu,Matcha Melon Pan,Bread,49,3.8,186.2,1.05,51.45
+2026-07-09,Thu,Classic Melon Pan,Bread,26,3.4,88.4,0.85,22.1
+2026-07-09,Thu,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-07-09,Thu,Curry Pan,Bread,22,4.2,92.4,1.4,30.8
+2026-07-09,Thu,Shokupan Loaf,Bread,17,6.5,110.5,1.7,28.9
+2026-07-09,Thu,Dorayaki,Sweets,28,3.6,100.8,1.1,30.8
+2026-07-09,Thu,Taiyaki (Red Bean),Sweets,27,3.5,94.5,1.35,36.45
+2026-07-09,Thu,Matcha Roll Cake (slice),Cakes,22,5.8,127.6,2.9,63.8
+2026-07-09,Thu,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,2.7,45.9
+2026-07-09,Thu,Matcha Dome Mousse,Cakes,14,6.8,95.2,3.7,51.8
+2026-07-09,Thu,Matcha Latte,Drinks,48,4.6,220.8,1.25,60
+2026-07-09,Thu,Iced Matcha,Drinks,43,4.9,210.7,1.45,62.35
+2026-07-09,Thu,Hojicha Latte,Drinks,23,4.4,101.2,1.1,25.3
+2026-07-09,Thu,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6
+2026-07-10,Fri,Matcha Melon Pan,Bread,49,3.8,186.2,1.05,51.45
+2026-07-10,Fri,Classic Melon Pan,Bread,34,3.4,115.6,0.85,28.9
+2026-07-10,Fri,Anpan,Bread,24,3.2,76.8,0.95,22.8
+2026-07-10,Fri,Curry Pan,Bread,23,4.2,96.6,1.4,32.2
+2026-07-10,Fri,Shokupan Loaf,Bread,22,6.5,143,1.7,37.4
+2026-07-10,Fri,Dorayaki,Sweets,30,3.6,108,1.1,33
+2026-07-10,Fri,Taiyaki (Red Bean),Sweets,35,3.5,122.5,1.35,47.25
+2026-07-10,Fri,Matcha Roll Cake (slice),Cakes,23,5.8,133.4,2.9,66.7
+2026-07-10,Fri,Matcha Layer Cake (slice),Cakes,18,6.2,111.6,2.7,48.6
+2026-07-10,Fri,Matcha Dome Mousse,Cakes,15,6.8,102,3.7,55.5
+2026-07-10,Fri,Matcha Latte,Drinks,64,4.6,294.4,1.25,80
+2026-07-10,Fri,Iced Matcha,Drinks,60,4.9,294,1.45,87
+2026-07-10,Fri,Hojicha Latte,Drinks,28,4.4,123.2,1.1,30.8
+2026-07-10,Fri,Sencha (pot),Drinks,14,3.8,53.2,0.6,8.4
+2026-07-11,Sat,Matcha Melon Pan,Bread,60,3.8,228,1.05,63
+2026-07-11,Sat,Classic Melon Pan,Bread,43,3.4,146.2,0.85,36.55
+2026-07-11,Sat,Anpan,Bread,33,3.2,105.6,0.95,31.35
+2026-07-11,Sat,Curry Pan,Bread,34,4.2,142.8,1.4,47.6
+2026-07-11,Sat,Shokupan Loaf,Bread,30,6.5,195,1.7,51
+2026-07-11,Sat,Dorayaki,Sweets,41,3.6,147.6,1.1,45.1
+2026-07-11,Sat,Taiyaki (Red Bean),Sweets,37,3.5,129.5,1.35,49.95
+2026-07-11,Sat,Matcha Roll Cake (slice),Cakes,34,5.8,197.2,2.9,98.6
+2026-07-11,Sat,Matcha Layer Cake (slice),Cakes,27,6.2,167.4,2.7,72.9
+2026-07-11,Sat,Matcha Dome Mousse,Cakes,21,6.8,142.8,3.7,77.7
+2026-07-11,Sat,Matcha Latte,Drinks,94,4.6,432.4,1.25,117.5
+2026-07-11,Sat,Iced Matcha,Drinks,79,4.9,387.1,1.45,114.55
+2026-07-11,Sat,Hojicha Latte,Drinks,31,4.4,136.4,1.1,34.1
+2026-07-11,Sat,Sencha (pot),Drinks,17,3.8,64.6,0.6,10.2
+2026-07-12,Sun,Matcha Melon Pan,Bread,64,3.8,243.2,1.05,67.2
+2026-07-12,Sun,Classic Melon Pan,Bread,35,3.4,119,0.85,29.75
+2026-07-12,Sun,Anpan,Bread,34,3.2,108.8,0.95,32.3
+2026-07-12,Sun,Curry Pan,Bread,26,4.2,109.2,1.4,36.4
+2026-07-12,Sun,Shokupan Loaf,Bread,27,6.5,175.5,1.7,45.9
+2026-07-12,Sun,Dorayaki,Sweets,31,3.6,111.6,1.1,34.1
+2026-07-12,Sun,Taiyaki (Red Bean),Sweets,33,3.5,115.5,1.35,44.55
+2026-07-12,Sun,Matcha Roll Cake (slice),Cakes,26,5.8,150.8,2.9,75.4
+2026-07-12,Sun,Matcha Layer Cake (slice),Cakes,21,6.2,130.2,2.7,56.7
+2026-07-12,Sun,Matcha Dome Mousse,Cakes,21,6.8,142.8,3.7,77.7
+2026-07-12,Sun,Matcha Latte,Drinks,71,4.6,326.6,1.25,88.75
+2026-07-12,Sun,Iced Matcha,Drinks,60,4.9,294,1.45,87
+2026-07-12,Sun,Hojicha Latte,Drinks,26,4.4,114.4,1.1,28.6
+2026-07-12,Sun,Sencha (pot),Drinks,17,3.8,64.6,0.6,10.2
+2026-07-13,Mon,Matcha Melon Pan,Bread,45,3.8,171,1.05,47.25
+2026-07-13,Mon,Classic Melon Pan,Bread,28,3.4,95.2,0.85,23.8
+2026-07-13,Mon,Anpan,Bread,23,3.2,73.6,0.95,21.85
+2026-07-13,Mon,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-07-13,Mon,Shokupan Loaf,Bread,15,6.5,97.5,1.7,25.5
+2026-07-13,Mon,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-07-13,Mon,Taiyaki (Red Bean),Sweets,22,3.5,77,1.35,29.7
+2026-07-13,Mon,Matcha Roll Cake (slice),Cakes,16,5.8,92.8,2.9,46.4
+2026-07-13,Mon,Matcha Layer Cake (slice),Cakes,12,6.2,74.4,2.7,32.4
+2026-07-13,Mon,Matcha Dome Mousse,Cakes,11,6.8,74.8,3.7,40.7
+2026-07-13,Mon,Matcha Latte,Drinks,47,4.6,216.2,1.25,58.75
+2026-07-13,Mon,Iced Matcha,Drinks,35,4.9,171.5,1.45,50.75
+2026-07-13,Mon,Hojicha Latte,Drinks,17,4.4,74.8,1.1,18.7
+2026-07-13,Mon,Sencha (pot),Drinks,9,3.8,34.2,0.6,5.4
+2026-07-14,Tue,Matcha Melon Pan,Bread,40,3.8,152,1.05,42
+2026-07-14,Tue,Classic Melon Pan,Bread,22,3.4,74.8,0.85,18.7
+2026-07-14,Tue,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-07-14,Tue,Curry Pan,Bread,20,4.2,84,1.4,28
+2026-07-14,Tue,Shokupan Loaf,Bread,15,6.5,97.5,1.7,25.5
+2026-07-14,Tue,Dorayaki,Sweets,21,3.6,75.6,1.1,23.1
+2026-07-14,Tue,Taiyaki (Red Bean),Sweets,24,3.5,84,1.35,32.4
+2026-07-14,Tue,Matcha Roll Cake (slice),Cakes,16,5.8,92.8,2.9,46.4
+2026-07-14,Tue,Matcha Layer Cake (slice),Cakes,14,6.2,86.8,2.7,37.8
+2026-07-14,Tue,Matcha Dome Mousse,Cakes,11,6.8,74.8,3.7,40.7
+2026-07-14,Tue,Matcha Latte,Drinks,41,4.6,188.6,1.25,51.25
+2026-07-14,Tue,Iced Matcha,Drinks,30,4.9,147,1.45,43.5
+2026-07-14,Tue,Hojicha Latte,Drinks,17,4.4,74.8,1.1,18.7
+2026-07-14,Tue,Sencha (pot),Drinks,9,3.8,34.2,0.6,5.4
+2026-07-15,Wed,Matcha Melon Pan,Bread,44,3.8,167.2,1.05,46.2
+2026-07-15,Wed,Classic Melon Pan,Bread,25,3.4,85,0.85,21.25
+2026-07-15,Wed,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-07-15,Wed,Curry Pan,Bread,20,4.2,84,1.4,28
+2026-07-15,Wed,Shokupan Loaf,Bread,19,6.5,123.5,1.7,32.3
+2026-07-15,Wed,Dorayaki,Sweets,24,3.6,86.4,1.1,26.4
+2026-07-15,Wed,Taiyaki (Red Bean),Sweets,29,3.5,101.5,1.35,39.15
+2026-07-15,Wed,Matcha Roll Cake (slice),Cakes,18,5.8,104.4,2.9,52.2
+2026-07-15,Wed,Matcha Layer Cake (slice),Cakes,14,6.2,86.8,2.7,37.8
+2026-07-15,Wed,Matcha Dome Mousse,Cakes,13,6.8,88.4,3.7,48.1
+2026-07-15,Wed,Matcha Latte,Drinks,53,4.6,243.8,1.25,66.25
+2026-07-15,Wed,Iced Matcha,Drinks,47,4.9,230.3,1.45,68.15
+2026-07-15,Wed,Hojicha Latte,Drinks,20,4.4,88,1.1,22
+2026-07-15,Wed,Sencha (pot),Drinks,9,3.8,34.2,0.6,5.4
+2026-07-16,Thu,Matcha Melon Pan,Bread,46,3.8,174.8,1.05,48.3
+2026-07-16,Thu,Classic Melon Pan,Bread,31,3.4,105.4,0.85,26.35
+2026-07-16,Thu,Anpan,Bread,25,3.2,80,0.95,23.75
+2026-07-16,Thu,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-07-16,Thu,Shokupan Loaf,Bread,20,6.5,130,1.7,34
+2026-07-16,Thu,Dorayaki,Sweets,27,3.6,97.2,1.1,29.7
+2026-07-16,Thu,Taiyaki (Red Bean),Sweets,23,3.5,80.5,1.35,31.05
+2026-07-16,Thu,Matcha Roll Cake (slice),Cakes,22,5.8,127.6,2.9,63.8
+2026-07-16,Thu,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,2.7,45.9
+2026-07-16,Thu,Matcha Dome Mousse,Cakes,12,6.8,81.6,3.7,44.4
+2026-07-16,Thu,Matcha Latte,Drinks,56,4.6,257.6,1.25,70
+2026-07-16,Thu,Iced Matcha,Drinks,49,4.9,240.1,1.45,71.05
+2026-07-16,Thu,Hojicha Latte,Drinks,22,4.4,96.8,1.1,24.2
+2026-07-16,Thu,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-07-17,Fri,Matcha Melon Pan,Bread,45,3.8,171,1.05,47.25
+2026-07-17,Fri,Classic Melon Pan,Bread,32,3.4,108.8,0.85,27.2
+2026-07-17,Fri,Anpan,Bread,30,3.2,96,0.95,28.5
+2026-07-17,Fri,Curry Pan,Bread,26,4.2,109.2,1.4,36.4
+2026-07-17,Fri,Shokupan Loaf,Bread,21,6.5,136.5,1.7,35.7
+2026-07-17,Fri,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-07-17,Fri,Taiyaki (Red Bean),Sweets,34,3.5,119,1.35,45.9
+2026-07-17,Fri,Matcha Roll Cake (slice),Cakes,23,5.8,133.4,2.9,66.7
+2026-07-17,Fri,Matcha Layer Cake (slice),Cakes,16,6.2,99.2,2.7,43.2
+2026-07-17,Fri,Matcha Dome Mousse,Cakes,15,6.8,102,3.7,55.5
+2026-07-17,Fri,Matcha Latte,Drinks,61,4.6,280.6,1.25,76.25
+2026-07-17,Fri,Iced Matcha,Drinks,47,4.9,230.3,1.45,68.15
+2026-07-17,Fri,Hojicha Latte,Drinks,28,4.4,123.2,1.1,30.8
+2026-07-17,Fri,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-07-18,Sat,Matcha Melon Pan,Bread,74,3.8,281.2,1.05,77.7
+2026-07-18,Sat,Classic Melon Pan,Bread,47,3.4,159.8,0.85,39.95
+2026-07-18,Sat,Anpan,Bread,32,3.2,102.4,0.95,30.4
+2026-07-18,Sat,Curry Pan,Bread,35,4.2,147,1.4,49
+2026-07-18,Sat,Shokupan Loaf,Bread,27,6.5,175.5,1.7,45.9
+2026-07-18,Sat,Dorayaki,Sweets,34,3.6,122.4,1.1,37.4
+2026-07-18,Sat,Taiyaki (Red Bean),Sweets,44,3.5,154,1.35,59.4
+2026-07-18,Sat,Matcha Roll Cake (slice),Cakes,31,5.8,179.8,2.9,89.9
+2026-07-18,Sat,Matcha Layer Cake (slice),Cakes,24,6.2,148.8,2.7,64.8
+2026-07-18,Sat,Matcha Dome Mousse,Cakes,21,6.8,142.8,3.7,77.7
+2026-07-18,Sat,Matcha Latte,Drinks,96,4.6,441.6,1.25,120
+2026-07-18,Sat,Iced Matcha,Drinks,90,4.9,441,1.45,130.5
+2026-07-18,Sat,Hojicha Latte,Drinks,28,4.4,123.2,1.1,30.8
+2026-07-18,Sat,Sencha (pot),Drinks,20,3.8,76,0.6,12
+2026-07-19,Sun,Matcha Melon Pan,Bread,59,3.8,224.2,1.05,61.95
+2026-07-19,Sun,Classic Melon Pan,Bread,47,3.4,159.8,0.85,39.95
+2026-07-19,Sun,Anpan,Bread,34,3.2,108.8,0.95,32.3
+2026-07-19,Sun,Curry Pan,Bread,31,4.2,130.2,1.4,43.4
+2026-07-19,Sun,Shokupan Loaf,Bread,22,6.5,143,1.7,37.4
+2026-07-19,Sun,Dorayaki,Sweets,36,3.6,129.6,1.1,39.6
+2026-07-19,Sun,Taiyaki (Red Bean),Sweets,41,3.5,143.5,1.35,55.35
+2026-07-19,Sun,Matcha Roll Cake (slice),Cakes,31,5.8,179.8,2.9,89.9
+2026-07-19,Sun,Matcha Layer Cake (slice),Cakes,19,6.2,117.8,2.7,51.3
+2026-07-19,Sun,Matcha Dome Mousse,Cakes,19,6.8,129.2,3.7,70.3
+2026-07-19,Sun,Matcha Latte,Drinks,76,4.6,349.6,1.25,95
+2026-07-19,Sun,Iced Matcha,Drinks,65,4.9,318.5,1.45,94.25
+2026-07-19,Sun,Hojicha Latte,Drinks,34,4.4,149.6,1.1,37.4
+2026-07-19,Sun,Sencha (pot),Drinks,18,3.8,68.4,0.6,10.8
+2026-07-20,Mon,Matcha Melon Pan,Bread,45,3.8,171,1.05,47.25
+2026-07-20,Mon,Classic Melon Pan,Bread,29,3.4,98.6,0.85,24.65
+2026-07-20,Mon,Anpan,Bread,20,3.2,64,0.95,19
+2026-07-20,Mon,Curry Pan,Bread,22,4.2,92.4,1.4,30.8
+2026-07-20,Mon,Shokupan Loaf,Bread,15,6.5,97.5,1.7,25.5
+2026-07-20,Mon,Dorayaki,Sweets,21,3.6,75.6,1.1,23.1
+2026-07-20,Mon,Taiyaki (Red Bean),Sweets,22,3.5,77,1.35,29.7
+2026-07-20,Mon,Matcha Roll Cake (slice),Cakes,16,5.8,92.8,2.9,46.4
+2026-07-20,Mon,Matcha Layer Cake (slice),Cakes,13,6.2,80.6,2.7,35.1
+2026-07-20,Mon,Matcha Dome Mousse,Cakes,12,6.8,81.6,3.7,44.4
+2026-07-20,Mon,Matcha Latte,Drinks,49,4.6,225.4,1.25,61.25
+2026-07-20,Mon,Iced Matcha,Drinks,43,4.9,210.7,1.45,62.35
+2026-07-20,Mon,Hojicha Latte,Drinks,20,4.4,88,1.1,22
+2026-07-20,Mon,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-07-21,Tue,Matcha Melon Pan,Bread,33,3.8,125.4,1.05,34.65
+2026-07-21,Tue,Classic Melon Pan,Bread,24,3.4,81.6,0.85,20.4
+2026-07-21,Tue,Anpan,Bread,21,3.2,67.2,0.95,19.95
+2026-07-21,Tue,Curry Pan,Bread,16,4.2,67.2,1.4,22.4
+2026-07-21,Tue,Shokupan Loaf,Bread,13,6.5,84.5,1.7,22.1
+2026-07-21,Tue,Dorayaki,Sweets,20,3.6,72,1.1,22
+2026-07-21,Tue,Taiyaki (Red Bean),Sweets,25,3.5,87.5,1.35,33.75
+2026-07-21,Tue,Matcha Roll Cake (slice),Cakes,15,5.8,87,2.9,43.5
+2026-07-21,Tue,Matcha Layer Cake (slice),Cakes,12,6.2,74.4,2.7,32.4
+2026-07-21,Tue,Matcha Dome Mousse,Cakes,11,6.8,74.8,3.7,40.7
+2026-07-21,Tue,Matcha Latte,Drinks,43,4.6,197.8,1.25,53.75
+2026-07-21,Tue,Iced Matcha,Drinks,49,4.9,240.1,1.45,71.05
+2026-07-21,Tue,Hojicha Latte,Drinks,17,4.4,74.8,1.1,18.7
+2026-07-21,Tue,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6
+2026-07-22,Wed,Matcha Melon Pan,Bread,39,3.8,148.2,1.05,40.95
+2026-07-22,Wed,Classic Melon Pan,Bread,27,3.4,91.8,0.85,22.95
+2026-07-22,Wed,Anpan,Bread,21,3.2,67.2,0.95,19.95
+2026-07-22,Wed,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-07-22,Wed,Shokupan Loaf,Bread,18,6.5,117,1.7,30.6
+2026-07-22,Wed,Dorayaki,Sweets,24,3.6,86.4,1.1,26.4
+2026-07-22,Wed,Taiyaki (Red Bean),Sweets,25,3.5,87.5,1.35,33.75
+2026-07-22,Wed,Matcha Roll Cake (slice),Cakes,16,5.8,92.8,2.9,46.4
+2026-07-22,Wed,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,2.7,45.9
+2026-07-22,Wed,Matcha Dome Mousse,Cakes,13,6.8,88.4,3.7,48.1
+2026-07-22,Wed,Matcha Latte,Drinks,60,4.6,276,1.25,75
+2026-07-22,Wed,Iced Matcha,Drinks,39,4.9,191.1,1.45,56.55
+2026-07-22,Wed,Hojicha Latte,Drinks,20,4.4,88,1.1,22
+2026-07-22,Wed,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-07-23,Thu,Matcha Melon Pan,Bread,39,3.8,148.2,1.05,40.95
+2026-07-23,Thu,Classic Melon Pan,Bread,31,3.4,105.4,0.85,26.35
+2026-07-23,Thu,Anpan,Bread,23,3.2,73.6,0.95,21.85
+2026-07-23,Thu,Curry Pan,Bread,18,4.2,75.6,1.4,25.2
+2026-07-23,Thu,Shokupan Loaf,Bread,20,6.5,130,1.7,34
+2026-07-23,Thu,Dorayaki,Sweets,28,3.6,100.8,1.1,30.8
+2026-07-23,Thu,Taiyaki (Red Bean),Sweets,25,3.5,87.5,1.35,33.75
+2026-07-23,Thu,Matcha Roll Cake (slice),Cakes,18,5.8,104.4,2.9,52.2
+2026-07-23,Thu,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,2.7,45.9
+2026-07-23,Thu,Matcha Dome Mousse,Cakes,15,6.8,102,3.7,55.5
+2026-07-23,Thu,Matcha Latte,Drinks,61,4.6,280.6,1.25,76.25
+2026-07-23,Thu,Iced Matcha,Drinks,55,4.9,269.5,1.45,79.75
+2026-07-23,Thu,Hojicha Latte,Drinks,23,4.4,101.2,1.1,25.3
+2026-07-23,Thu,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-07-24,Fri,Matcha Melon Pan,Bread,47,3.8,178.6,1.05,49.35
+2026-07-24,Fri,Classic Melon Pan,Bread,36,3.4,122.4,0.85,30.6
+2026-07-24,Fri,Anpan,Bread,24,3.2,76.8,0.95,22.8
+2026-07-24,Fri,Curry Pan,Bread,25,4.2,105,1.4,35
+2026-07-24,Fri,Shokupan Loaf,Bread,20,6.5,130,1.7,34
+2026-07-24,Fri,Dorayaki,Sweets,30,3.6,108,1.1,33
+2026-07-24,Fri,Taiyaki (Red Bean),Sweets,30,3.5,105,1.35,40.5
+2026-07-24,Fri,Matcha Roll Cake (slice),Cakes,26,5.8,150.8,2.9,75.4
+2026-07-24,Fri,Matcha Layer Cake (slice),Cakes,20,6.2,124,2.7,54
+2026-07-24,Fri,Matcha Dome Mousse,Cakes,15,6.8,102,3.7,55.5
+2026-07-24,Fri,Matcha Latte,Drinks,75,4.6,345,1.25,93.75
+2026-07-24,Fri,Iced Matcha,Drinks,50,4.9,245,1.45,72.5
+2026-07-24,Fri,Hojicha Latte,Drinks,25,4.4,110,1.1,27.5
+2026-07-24,Fri,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-07-25,Sat,Matcha Melon Pan,Bread,78,3.8,296.4,1.05,81.9
+2026-07-25,Sat,Classic Melon Pan,Bread,39,3.4,132.6,0.85,33.15
+2026-07-25,Sat,Anpan,Bread,35,3.2,112,0.95,33.25
+2026-07-25,Sat,Curry Pan,Bread,30,4.2,126,1.4,42
+2026-07-25,Sat,Shokupan Loaf,Bread,29,6.5,188.5,1.7,49.3
+2026-07-25,Sat,Dorayaki,Sweets,36,3.6,129.6,1.1,39.6
+2026-07-25,Sat,Taiyaki (Red Bean),Sweets,40,3.5,140,1.35,54
+2026-07-25,Sat,Matcha Roll Cake (slice),Cakes,28,5.8,162.4,2.9,81.2
+2026-07-25,Sat,Matcha Layer Cake (slice),Cakes,26,6.2,161.2,2.7,70.2
+2026-07-25,Sat,Matcha Dome Mousse,Cakes,24,6.8,163.2,3.7,88.8
+2026-07-25,Sat,Matcha Latte,Drinks,79,4.6,363.4,1.25,98.75
+2026-07-25,Sat,Iced Matcha,Drinks,77,4.9,377.3,1.45,111.65
+2026-07-25,Sat,Hojicha Latte,Drinks,37,4.4,162.8,1.1,40.7
+2026-07-25,Sat,Sencha (pot),Drinks,17,3.8,64.6,0.6,10.2
+2026-07-26,Sun,Matcha Melon Pan,Bread,58,3.8,220.4,1.05,60.9
+2026-07-26,Sun,Classic Melon Pan,Bread,36,3.4,122.4,0.85,30.6
+2026-07-26,Sun,Anpan,Bread,38,3.2,121.6,0.95,36.1
+2026-07-26,Sun,Curry Pan,Bread,33,4.2,138.6,1.4,46.2
+2026-07-26,Sun,Shokupan Loaf,Bread,28,6.5,182,1.7,47.6
+2026-07-26,Sun,Dorayaki,Sweets,33,3.6,118.8,1.1,36.3
+2026-07-26,Sun,Taiyaki (Red Bean),Sweets,42,3.5,147,1.35,56.7
+2026-07-26,Sun,Matcha Roll Cake (slice),Cakes,29,5.8,168.2,2.9,84.1
+2026-07-26,Sun,Matcha Layer Cake (slice),Cakes,22,6.2,136.4,2.7,59.4
+2026-07-26,Sun,Matcha Dome Mousse,Cakes,18,6.8,122.4,3.7,66.6
+2026-07-26,Sun,Matcha Latte,Drinks,76,4.6,349.6,1.25,95
+2026-07-26,Sun,Iced Matcha,Drinks,91,4.9,445.9,1.45,131.95
+2026-07-26,Sun,Hojicha Latte,Drinks,35,4.4,154,1.1,38.5
+2026-07-26,Sun,Sencha (pot),Drinks,16,3.8,60.8,0.6,9.6
+2026-07-27,Mon,Matcha Melon Pan,Bread,40,3.8,152,1.05,42
+2026-07-27,Mon,Classic Melon Pan,Bread,26,3.4,88.4,0.85,22.1
+2026-07-27,Mon,Anpan,Bread,24,3.2,76.8,0.95,22.8
+2026-07-27,Mon,Curry Pan,Bread,19,4.2,79.8,1.4,26.6
+2026-07-27,Mon,Shokupan Loaf,Bread,14,6.5,91,1.7,23.8
+2026-07-27,Mon,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-07-27,Mon,Taiyaki (Red Bean),Sweets,21,3.5,73.5,1.35,28.35
+2026-07-27,Mon,Matcha Roll Cake (slice),Cakes,15,5.8,87,2.9,43.5
+2026-07-27,Mon,Matcha Layer Cake (slice),Cakes,13,6.2,80.6,2.7,35.1
+2026-07-27,Mon,Matcha Dome Mousse,Cakes,14,6.8,95.2,3.7,51.8
+2026-07-27,Mon,Matcha Latte,Drinks,48,4.6,220.8,1.25,60
+2026-07-27,Mon,Iced Matcha,Drinks,50,4.9,245,1.45,72.5
+2026-07-27,Mon,Hojicha Latte,Drinks,21,4.4,92.4,1.1,23.1
+2026-07-27,Mon,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-07-28,Tue,Matcha Melon Pan,Bread,43,3.8,163.4,1.05,45.15
+2026-07-28,Tue,Classic Melon Pan,Bread,28,3.4,95.2,0.85,23.8
+2026-07-28,Tue,Anpan,Bread,18,3.2,57.6,0.95,17.1
+2026-07-28,Tue,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-07-28,Tue,Shokupan Loaf,Bread,14,6.5,91,1.7,23.8
+2026-07-28,Tue,Dorayaki,Sweets,21,3.6,75.6,1.1,23.1
+2026-07-28,Tue,Taiyaki (Red Bean),Sweets,26,3.5,91,1.35,35.1
+2026-07-28,Tue,Matcha Roll Cake (slice),Cakes,18,5.8,104.4,2.9,52.2
+2026-07-28,Tue,Matcha Layer Cake (slice),Cakes,15,6.2,93,2.7,40.5
+2026-07-28,Tue,Matcha Dome Mousse,Cakes,12,6.8,81.6,3.7,44.4
+2026-07-28,Tue,Matcha Latte,Drinks,46,4.6,211.6,1.25,57.5
+2026-07-28,Tue,Iced Matcha,Drinks,49,4.9,240.1,1.45,71.05
+2026-07-28,Tue,Hojicha Latte,Drinks,17,4.4,74.8,1.1,18.7
+2026-07-28,Tue,Sencha (pot),Drinks,9,3.8,34.2,0.6,5.4
+2026-07-29,Wed,Matcha Melon Pan,Bread,44,3.8,167.2,1.05,46.2
+2026-07-29,Wed,Classic Melon Pan,Bread,32,3.4,108.8,0.85,27.2
+2026-07-29,Wed,Anpan,Bread,26,3.2,83.2,0.95,24.7
+2026-07-29,Wed,Curry Pan,Bread,18,4.2,75.6,1.4,25.2
+2026-07-29,Wed,Shokupan Loaf,Bread,17,6.5,110.5,1.7,28.9
+2026-07-29,Wed,Dorayaki,Sweets,24,3.6,86.4,1.1,26.4
+2026-07-29,Wed,Taiyaki (Red Bean),Sweets,26,3.5,91,1.35,35.1
+2026-07-29,Wed,Matcha Roll Cake (slice),Cakes,20,5.8,116,2.9,58
+2026-07-29,Wed,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,2.7,45.9
+2026-07-29,Wed,Matcha Dome Mousse,Cakes,12,6.8,81.6,3.7,44.4
+2026-07-29,Wed,Matcha Latte,Drinks,51,4.6,234.6,1.25,63.75
+2026-07-29,Wed,Iced Matcha,Drinks,39,4.9,191.1,1.45,56.55
+2026-07-29,Wed,Hojicha Latte,Drinks,19,4.4,83.6,1.1,20.9
+2026-07-29,Wed,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-07-30,Thu,Matcha Melon Pan,Bread,47,3.8,178.6,1.05,49.35
+2026-07-30,Thu,Classic Melon Pan,Bread,29,3.4,98.6,0.85,24.65
+2026-07-30,Thu,Anpan,Bread,24,3.2,76.8,0.95,22.8
+2026-07-30,Thu,Curry Pan,Bread,24,4.2,100.8,1.4,33.6
+2026-07-30,Thu,Shokupan Loaf,Bread,20,6.5,130,1.7,34
+2026-07-30,Thu,Dorayaki,Sweets,26,3.6,93.6,1.1,28.6
+2026-07-30,Thu,Taiyaki (Red Bean),Sweets,31,3.5,108.5,1.35,41.85
+2026-07-30,Thu,Matcha Roll Cake (slice),Cakes,17,5.8,98.6,2.9,49.3
+2026-07-30,Thu,Matcha Layer Cake (slice),Cakes,14,6.2,86.8,2.7,37.8
+2026-07-30,Thu,Matcha Dome Mousse,Cakes,16,6.8,108.8,3.7,59.2
+2026-07-30,Thu,Matcha Latte,Drinks,65,4.6,299,1.25,81.25
+2026-07-30,Thu,Iced Matcha,Drinks,61,4.9,298.9,1.45,88.45
+2026-07-30,Thu,Hojicha Latte,Drinks,20,4.4,88,1.1,22
+2026-07-30,Thu,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-07-31,Fri,Matcha Melon Pan,Bread,55,3.8,209,1.05,57.75
+2026-07-31,Fri,Classic Melon Pan,Bread,33,3.4,112.2,0.85,28.05
+2026-07-31,Fri,Anpan,Bread,25,3.2,80,0.95,23.75
+2026-07-31,Fri,Curry Pan,Bread,26,4.2,109.2,1.4,36.4
+2026-07-31,Fri,Shokupan Loaf,Bread,19,6.5,123.5,1.7,32.3
+2026-07-31,Fri,Dorayaki,Sweets,28,3.6,100.8,1.1,30.8
+2026-07-31,Fri,Taiyaki (Red Bean),Sweets,29,3.5,101.5,1.35,39.15
+2026-07-31,Fri,Matcha Roll Cake (slice),Cakes,21,5.8,121.8,2.9,60.9
+2026-07-31,Fri,Matcha Layer Cake (slice),Cakes,19,6.2,117.8,2.7,51.3
+2026-07-31,Fri,Matcha Dome Mousse,Cakes,14,6.8,95.2,3.7,51.8
+2026-07-31,Fri,Matcha Latte,Drinks,68,4.6,312.8,1.25,85
+2026-07-31,Fri,Iced Matcha,Drinks,52,4.9,254.8,1.45,75.4
+2026-07-31,Fri,Hojicha Latte,Drinks,27,4.4,118.8,1.1,29.7
+2026-07-31,Fri,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-08-01,Sat,Matcha Melon Pan,Bread,66,3.8,250.8,1.05,69.3
+2026-08-01,Sat,Classic Melon Pan,Bread,44,3.4,149.6,0.85,37.4
+2026-08-01,Sat,Anpan,Bread,40,3.2,128,0.95,38
+2026-08-01,Sat,Curry Pan,Bread,32,4.2,134.4,1.4,44.8
+2026-08-01,Sat,Shokupan Loaf,Bread,29,6.5,188.5,1.7,49.3
+2026-08-01,Sat,Dorayaki,Sweets,34,3.6,122.4,1.1,37.4
+2026-08-01,Sat,Taiyaki (Red Bean),Sweets,42,3.5,147,1.35,56.7
+2026-08-01,Sat,Matcha Roll Cake (slice),Cakes,29,5.8,168.2,2.9,84.1
+2026-08-01,Sat,Matcha Layer Cake (slice),Cakes,24,6.2,148.8,2.7,64.8
+2026-08-01,Sat,Matcha Dome Mousse,Cakes,18,6.8,122.4,3.7,66.6
+2026-08-01,Sat,Matcha Latte,Drinks,92,4.6,423.2,1.25,115
+2026-08-01,Sat,Iced Matcha,Drinks,76,4.9,372.4,1.45,110.2
+2026-08-01,Sat,Hojicha Latte,Drinks,32,4.4,140.8,1.1,35.2
+2026-08-01,Sat,Sencha (pot),Drinks,16,3.8,60.8,0.6,9.6
+2026-08-02,Sun,Matcha Melon Pan,Bread,73,3.8,277.4,1.05,76.65
+2026-08-02,Sun,Classic Melon Pan,Bread,42,3.4,142.8,0.85,35.7
+2026-08-02,Sun,Anpan,Bread,39,3.2,124.8,0.95,37.05
+2026-08-02,Sun,Curry Pan,Bread,28,4.2,117.6,1.4,39.2
+2026-08-02,Sun,Shokupan Loaf,Bread,29,6.5,188.5,1.7,49.3
+2026-08-02,Sun,Dorayaki,Sweets,32,3.6,115.2,1.1,35.2
+2026-08-02,Sun,Taiyaki (Red Bean),Sweets,38,3.5,133,1.35,51.3
+2026-08-02,Sun,Matcha Roll Cake (slice),Cakes,29,5.8,168.2,2.9,84.1
+2026-08-02,Sun,Matcha Layer Cake (slice),Cakes,20,6.2,124,2.7,54
+2026-08-02,Sun,Matcha Dome Mousse,Cakes,18,6.8,122.4,3.7,66.6
+2026-08-02,Sun,Matcha Latte,Drinks,91,4.6,418.6,1.25,113.75
+2026-08-02,Sun,Iced Matcha,Drinks,64,4.9,313.6,1.45,92.8
+2026-08-02,Sun,Hojicha Latte,Drinks,30,4.4,132,1.1,33
+2026-08-02,Sun,Sencha (pot),Drinks,16,3.8,60.8,0.6,9.6
+2026-08-03,Mon,Matcha Melon Pan,Bread,44,3.8,167.2,1.05,46.2
+2026-08-03,Mon,Classic Melon Pan,Bread,23,3.4,78.2,0.85,19.55
+2026-08-03,Mon,Anpan,Bread,23,3.2,73.6,0.95,21.85
+2026-08-03,Mon,Curry Pan,Bread,22,4.2,92.4,1.4,30.8
+2026-08-03,Mon,Shokupan Loaf,Bread,17,6.5,110.5,1.7,28.9
+2026-08-03,Mon,Dorayaki,Sweets,24,3.6,86.4,1.1,26.4
+2026-08-03,Mon,Taiyaki (Red Bean),Sweets,24,3.5,84,1.35,32.4
+2026-08-03,Mon,Matcha Roll Cake (slice),Cakes,17,5.8,98.6,2.9,49.3
+2026-08-03,Mon,Matcha Layer Cake (slice),Cakes,14,6.2,86.8,2.7,37.8
+2026-08-03,Mon,Matcha Dome Mousse,Cakes,11,6.8,74.8,3.7,40.7
+2026-08-03,Mon,Matcha Latte,Drinks,52,4.6,239.2,1.25,65
+2026-08-03,Mon,Iced Matcha,Drinks,44,4.9,215.6,1.45,63.8
+2026-08-03,Mon,Hojicha Latte,Drinks,19,4.4,83.6,1.1,20.9
+2026-08-03,Mon,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6
+2026-08-04,Tue,Matcha Melon Pan,Bread,38,3.8,144.4,1.05,39.9
+2026-08-04,Tue,Classic Melon Pan,Bread,25,3.4,85,0.85,21.25
+2026-08-04,Tue,Anpan,Bread,17,3.2,54.4,0.95,16.15
+2026-08-04,Tue,Curry Pan,Bread,16,4.2,67.2,1.4,22.4
+2026-08-04,Tue,Shokupan Loaf,Bread,16,6.5,104,1.7,27.2
+2026-08-04,Tue,Dorayaki,Sweets,19,3.6,68.4,1.1,20.9
+2026-08-04,Tue,Taiyaki (Red Bean),Sweets,23,3.5,80.5,1.35,31.05
+2026-08-04,Tue,Matcha Roll Cake (slice),Cakes,15,5.8,87,2.9,43.5
+2026-08-04,Tue,Matcha Layer Cake (slice),Cakes,15,6.2,93,2.7,40.5
+2026-08-04,Tue,Matcha Dome Mousse,Cakes,13,6.8,88.4,3.7,48.1
+2026-08-04,Tue,Matcha Latte,Drinks,56,4.6,257.6,1.25,70
+2026-08-04,Tue,Iced Matcha,Drinks,42,4.9,205.8,1.45,60.9
+2026-08-04,Tue,Hojicha Latte,Drinks,17,4.4,74.8,1.1,18.7
+2026-08-04,Tue,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6
+2026-08-05,Wed,Matcha Melon Pan,Bread,47,3.8,178.6,1.05,49.35
+2026-08-05,Wed,Classic Melon Pan,Bread,32,3.4,108.8,0.85,27.2
+2026-08-05,Wed,Anpan,Bread,25,3.2,80,0.95,23.75
+2026-08-05,Wed,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-08-05,Wed,Shokupan Loaf,Bread,16,6.5,104,1.7,27.2
+2026-08-05,Wed,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-08-05,Wed,Taiyaki (Red Bean),Sweets,23,3.5,80.5,1.35,31.05
+2026-08-05,Wed,Matcha Roll Cake (slice),Cakes,17,5.8,98.6,2.9,49.3
+2026-08-05,Wed,Matcha Layer Cake (slice),Cakes,16,6.2,99.2,2.7,43.2
+2026-08-05,Wed,Matcha Dome Mousse,Cakes,12,6.8,81.6,3.7,44.4
+2026-08-05,Wed,Matcha Latte,Drinks,49,4.6,225.4,1.25,61.25
+2026-08-05,Wed,Iced Matcha,Drinks,47,4.9,230.3,1.45,68.15
+2026-08-05,Wed,Hojicha Latte,Drinks,23,4.4,101.2,1.1,25.3
+2026-08-05,Wed,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-08-06,Thu,Matcha Melon Pan,Bread,53,3.8,201.4,1.05,55.65
+2026-08-06,Thu,Classic Melon Pan,Bread,29,3.4,98.6,0.85,24.65
+2026-08-06,Thu,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-08-06,Thu,Curry Pan,Bread,23,4.2,96.6,1.4,32.2
+2026-08-06,Thu,Shokupan Loaf,Bread,19,6.5,123.5,1.7,32.3
+2026-08-06,Thu,Dorayaki,Sweets,24,3.6,86.4,1.1,26.4
+2026-08-06,Thu,Taiyaki (Red Bean),Sweets,24,3.5,84,1.35,32.4
+2026-08-06,Thu,Matcha Roll Cake (slice),Cakes,19,5.8,110.2,2.9,55.1
+2026-08-06,Thu,Matcha Layer Cake (slice),Cakes,18,6.2,111.6,2.7,48.6
+2026-08-06,Thu,Matcha Dome Mousse,Cakes,15,6.8,102,3.7,55.5
+2026-08-06,Thu,Matcha Latte,Drinks,49,4.6,225.4,1.25,61.25
+2026-08-06,Thu,Iced Matcha,Drinks,39,4.9,191.1,1.45,56.55
+2026-08-06,Thu,Hojicha Latte,Drinks,22,4.4,96.8,1.1,24.2
+2026-08-06,Thu,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-08-07,Fri,Matcha Melon Pan,Bread,56,3.8,212.8,1.05,58.8
+2026-08-07,Fri,Classic Melon Pan,Bread,30,3.4,102,0.85,25.5
+2026-08-07,Fri,Anpan,Bread,25,3.2,80,0.95,23.75
+2026-08-07,Fri,Curry Pan,Bread,23,4.2,96.6,1.4,32.2
+2026-08-07,Fri,Shokupan Loaf,Bread,21,6.5,136.5,1.7,35.7
+2026-08-07,Fri,Dorayaki,Sweets,31,3.6,111.6,1.1,34.1
+2026-08-07,Fri,Taiyaki (Red Bean),Sweets,29,3.5,101.5,1.35,39.15
+2026-08-07,Fri,Matcha Roll Cake (slice),Cakes,21,5.8,121.8,2.9,60.9
+2026-08-07,Fri,Matcha Layer Cake (slice),Cakes,16,6.2,99.2,2.7,43.2
+2026-08-07,Fri,Matcha Dome Mousse,Cakes,18,6.8,122.4,3.7,66.6
+2026-08-07,Fri,Matcha Latte,Drinks,65,4.6,299,1.25,81.25
+2026-08-07,Fri,Iced Matcha,Drinks,45,4.9,220.5,1.45,65.25
+2026-08-07,Fri,Hojicha Latte,Drinks,26,4.4,114.4,1.1,28.6
+2026-08-07,Fri,Sencha (pot),Drinks,15,3.8,57,0.6,9
+2026-08-08,Sat,Matcha Melon Pan,Bread,75,3.8,285,1.05,78.75
+2026-08-08,Sat,Classic Melon Pan,Bread,52,3.4,176.8,0.85,44.2
+2026-08-08,Sat,Anpan,Bread,37,3.2,118.4,0.95,35.15
+2026-08-08,Sat,Curry Pan,Bread,31,4.2,130.2,1.4,43.4
+2026-08-08,Sat,Shokupan Loaf,Bread,30,6.5,195,1.7,51
+2026-08-08,Sat,Dorayaki,Sweets,40,3.6,144,1.1,44
+2026-08-08,Sat,Taiyaki (Red Bean),Sweets,38,3.5,133,1.35,51.3
+2026-08-08,Sat,Matcha Roll Cake (slice),Cakes,32,5.8,185.6,2.9,92.8
+2026-08-08,Sat,Matcha Layer Cake (slice),Cakes,26,6.2,161.2,2.7,70.2
+2026-08-08,Sat,Matcha Dome Mousse,Cakes,19,6.8,129.2,3.7,70.3
+2026-08-08,Sat,Matcha Latte,Drinks,84,4.6,386.4,1.25,105
+2026-08-08,Sat,Iced Matcha,Drinks,97,4.9,475.3,1.45,140.65
+2026-08-08,Sat,Hojicha Latte,Drinks,36,4.4,158.4,1.1,39.6
+2026-08-08,Sat,Sencha (pot),Drinks,20,3.8,76,0.6,12
+2026-08-09,Sun,Matcha Melon Pan,Bread,71,3.8,269.8,1.05,74.55
+2026-08-09,Sun,Classic Melon Pan,Bread,39,3.4,132.6,0.85,33.15
+2026-08-09,Sun,Anpan,Bread,32,3.2,102.4,0.95,30.4
+2026-08-09,Sun,Curry Pan,Bread,30,4.2,126,1.4,42
+2026-08-09,Sun,Shokupan Loaf,Bread,27,6.5,175.5,1.7,45.9
+2026-08-09,Sun,Dorayaki,Sweets,40,3.6,144,1.1,44
+2026-08-09,Sun,Taiyaki (Red Bean),Sweets,41,3.5,143.5,1.35,55.35
+2026-08-09,Sun,Matcha Roll Cake (slice),Cakes,31,5.8,179.8,2.9,89.9
+2026-08-09,Sun,Matcha Layer Cake (slice),Cakes,21,6.2,130.2,2.7,56.7
+2026-08-09,Sun,Matcha Dome Mousse,Cakes,23,6.8,156.4,3.7,85.1
+2026-08-09,Sun,Matcha Latte,Drinks,92,4.6,423.2,1.25,115
+2026-08-09,Sun,Iced Matcha,Drinks,66,4.9,323.4,1.45,95.7
+2026-08-09,Sun,Hojicha Latte,Drinks,34,4.4,149.6,1.1,37.4
+2026-08-09,Sun,Sencha (pot),Drinks,18,3.8,68.4,0.6,10.8
+2026-08-10,Mon,Matcha Melon Pan,Bread,39,3.8,148.2,1.05,40.95
+2026-08-10,Mon,Classic Melon Pan,Bread,30,3.4,102,0.85,25.5
+2026-08-10,Mon,Anpan,Bread,23,3.2,73.6,0.95,21.85
+2026-08-10,Mon,Curry Pan,Bread,23,4.2,96.6,1.4,32.2
+2026-08-10,Mon,Shokupan Loaf,Bread,18,6.5,117,1.7,30.6
+2026-08-10,Mon,Dorayaki,Sweets,26,3.6,93.6,1.1,28.6
+2026-08-10,Mon,Taiyaki (Red Bean),Sweets,27,3.5,94.5,1.35,36.45
+2026-08-10,Mon,Matcha Roll Cake (slice),Cakes,17,5.8,98.6,2.9,49.3
+2026-08-10,Mon,Matcha Layer Cake (slice),Cakes,15,6.2,93,2.7,40.5
+2026-08-10,Mon,Matcha Dome Mousse,Cakes,14,6.8,95.2,3.7,51.8
+2026-08-10,Mon,Matcha Latte,Drinks,45,4.6,207,1.25,56.25
+2026-08-10,Mon,Iced Matcha,Drinks,57,4.9,279.3,1.45,82.65
+2026-08-10,Mon,Hojicha Latte,Drinks,18,4.4,79.2,1.1,19.8
+2026-08-10,Mon,Sencha (pot),Drinks,9,3.8,34.2,0.6,5.4
+2026-08-11,Tue,Matcha Melon Pan,Bread,41,3.8,155.8,1.05,43.05
+2026-08-11,Tue,Classic Melon Pan,Bread,22,3.4,74.8,0.85,18.7
+2026-08-11,Tue,Anpan,Bread,20,3.2,64,0.95,19
+2026-08-11,Tue,Curry Pan,Bread,20,4.2,84,1.4,28
+2026-08-11,Tue,Shokupan Loaf,Bread,13,6.5,84.5,1.7,22.1
+2026-08-11,Tue,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-08-11,Tue,Taiyaki (Red Bean),Sweets,21,3.5,73.5,1.35,28.35
+2026-08-11,Tue,Matcha Roll Cake (slice),Cakes,15,5.8,87,2.9,43.5
+2026-08-11,Tue,Matcha Layer Cake (slice),Cakes,15,6.2,93,2.7,40.5
+2026-08-11,Tue,Matcha Dome Mousse,Cakes,12,6.8,81.6,3.7,44.4
+2026-08-11,Tue,Matcha Latte,Drinks,51,4.6,234.6,1.25,63.75
+2026-08-11,Tue,Iced Matcha,Drinks,39,4.9,191.1,1.45,56.55
+2026-08-11,Tue,Hojicha Latte,Drinks,20,4.4,88,1.1,22
+2026-08-11,Tue,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-08-12,Wed,Matcha Melon Pan,Bread,41,3.8,155.8,1.05,43.05
+2026-08-12,Wed,Classic Melon Pan,Bread,31,3.4,105.4,0.85,26.35
+2026-08-12,Wed,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-08-12,Wed,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-08-12,Wed,Shokupan Loaf,Bread,18,6.5,117,1.7,30.6
+2026-08-12,Wed,Dorayaki,Sweets,24,3.6,86.4,1.1,26.4
+2026-08-12,Wed,Taiyaki (Red Bean),Sweets,29,3.5,101.5,1.35,39.15
+2026-08-12,Wed,Matcha Roll Cake (slice),Cakes,20,5.8,116,2.9,58
+2026-08-12,Wed,Matcha Layer Cake (slice),Cakes,14,6.2,86.8,2.7,37.8
+2026-08-12,Wed,Matcha Dome Mousse,Cakes,12,6.8,81.6,3.7,44.4
+2026-08-12,Wed,Matcha Latte,Drinks,50,4.6,230,1.25,62.5
+2026-08-12,Wed,Iced Matcha,Drinks,37,4.9,181.3,1.45,53.65
+2026-08-12,Wed,Hojicha Latte,Drinks,24,4.4,105.6,1.1,26.4
+2026-08-12,Wed,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6
+2026-08-13,Thu,Matcha Melon Pan,Bread,42,3.8,159.6,1.05,44.1
+2026-08-13,Thu,Classic Melon Pan,Bread,29,3.4,98.6,0.85,24.65
+2026-08-13,Thu,Anpan,Bread,23,3.2,73.6,0.95,21.85
+2026-08-13,Thu,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-08-13,Thu,Shokupan Loaf,Bread,19,6.5,123.5,1.7,32.3
+2026-08-13,Thu,Dorayaki,Sweets,23,3.6,82.8,1.1,25.3
+2026-08-13,Thu,Taiyaki (Red Bean),Sweets,25,3.5,87.5,1.35,33.75
+2026-08-13,Thu,Matcha Roll Cake (slice),Cakes,21,5.8,121.8,2.9,60.9
+2026-08-13,Thu,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,2.7,45.9
+2026-08-13,Thu,Matcha Dome Mousse,Cakes,14,6.8,95.2,3.7,51.8
+2026-08-13,Thu,Matcha Latte,Drinks,66,4.6,303.6,1.25,82.5
+2026-08-13,Thu,Iced Matcha,Drinks,61,4.9,298.9,1.45,88.45
+2026-08-13,Thu,Hojicha Latte,Drinks,20,4.4,88,1.1,22
+2026-08-13,Thu,Sencha (pot),Drinks,14,3.8,53.2,0.6,8.4
+2026-08-14,Fri,Matcha Melon Pan,Bread,60,3.8,228,1.05,63
+2026-08-14,Fri,Classic Melon Pan,Bread,35,3.4,119,0.85,29.75
+2026-08-14,Fri,Anpan,Bread,30,3.2,96,0.95,28.5
+2026-08-14,Fri,Curry Pan,Bread,27,4.2,113.4,1.4,37.8
+2026-08-14,Fri,Shokupan Loaf,Bread,20,6.5,130,1.7,34
+2026-08-14,Fri,Dorayaki,Sweets,34,3.6,122.4,1.1,37.4
+2026-08-14,Fri,Taiyaki (Red Bean),Sweets,35,3.5,122.5,1.35,47.25
+2026-08-14,Fri,Matcha Roll Cake (slice),Cakes,23,5.8,133.4,2.9,66.7
+2026-08-14,Fri,Matcha Layer Cake (slice),Cakes,19,6.2,117.8,2.7,51.3
+2026-08-14,Fri,Matcha Dome Mousse,Cakes,16,6.8,108.8,3.7,59.2
+2026-08-14,Fri,Matcha Latte,Drinks,63,4.6,289.8,1.25,78.75
+2026-08-14,Fri,Iced Matcha,Drinks,53,4.9,259.7,1.45,76.85
+2026-08-14,Fri,Hojicha Latte,Drinks,28,4.4,123.2,1.1,30.8
+2026-08-14,Fri,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-08-15,Sat,Matcha Melon Pan,Bread,72,3.8,273.6,1.05,75.6
+2026-08-15,Sat,Classic Melon Pan,Bread,44,3.4,149.6,0.85,37.4
+2026-08-15,Sat,Anpan,Bread,42,3.2,134.4,0.95,39.9
+2026-08-15,Sat,Curry Pan,Bread,30,4.2,126,1.4,42
+2026-08-15,Sat,Shokupan Loaf,Bread,25,6.5,162.5,1.7,42.5
+2026-08-15,Sat,Dorayaki,Sweets,46,3.6,165.6,1.1,50.6
+2026-08-15,Sat,Taiyaki (Red Bean),Sweets,46,3.5,161,1.35,62.1
+2026-08-15,Sat,Matcha Roll Cake (slice),Cakes,28,5.8,162.4,2.9,81.2
+2026-08-15,Sat,Matcha Layer Cake (slice),Cakes,22,6.2,136.4,2.7,59.4
+2026-08-15,Sat,Matcha Dome Mousse,Cakes,21,6.8,142.8,3.7,77.7
+2026-08-15,Sat,Matcha Latte,Drinks,87,4.6,400.2,1.25,108.75
+2026-08-15,Sat,Iced Matcha,Drinks,78,4.9,382.2,1.45,113.1
+2026-08-15,Sat,Hojicha Latte,Drinks,35,4.4,154,1.1,38.5
+2026-08-15,Sat,Sencha (pot),Drinks,17,3.8,64.6,0.6,10.2
+2026-08-16,Sun,Matcha Melon Pan,Bread,71,3.8,269.8,1.05,74.55
+2026-08-16,Sun,Classic Melon Pan,Bread,42,3.4,142.8,0.85,35.7
+2026-08-16,Sun,Anpan,Bread,37,3.2,118.4,0.95,35.15
+2026-08-16,Sun,Curry Pan,Bread,29,4.2,121.8,1.4,40.6
+2026-08-16,Sun,Shokupan Loaf,Bread,29,6.5,188.5,1.7,49.3
+2026-08-16,Sun,Dorayaki,Sweets,40,3.6,144,1.1,44
+2026-08-16,Sun,Taiyaki (Red Bean),Sweets,43,3.5,150.5,1.35,58.05
+2026-08-16,Sun,Matcha Roll Cake (slice),Cakes,28,5.8,162.4,2.9,81.2
+2026-08-16,Sun,Matcha Layer Cake (slice),Cakes,24,6.2,148.8,2.7,64.8
+2026-08-16,Sun,Matcha Dome Mousse,Cakes,20,6.8,136,3.7,74
+2026-08-16,Sun,Matcha Latte,Drinks,89,4.6,409.4,1.25,111.25
+2026-08-16,Sun,Iced Matcha,Drinks,65,4.9,318.5,1.45,94.25
+2026-08-16,Sun,Hojicha Latte,Drinks,31,4.4,136.4,1.1,34.1
+2026-08-16,Sun,Sencha (pot),Drinks,17,3.8,64.6,0.6,10.2
+2026-08-17,Mon,Matcha Melon Pan,Bread,38,3.8,144.4,1.05,39.9
+2026-08-17,Mon,Classic Melon Pan,Bread,30,3.4,102,0.85,25.5
+2026-08-17,Mon,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-08-17,Mon,Curry Pan,Bread,17,4.2,71.4,1.4,23.8
+2026-08-17,Mon,Shokupan Loaf,Bread,15,6.5,97.5,1.7,25.5
+2026-08-17,Mon,Dorayaki,Sweets,27,3.6,97.2,1.1,29.7
+2026-08-17,Mon,Taiyaki (Red Bean),Sweets,22,3.5,77,1.35,29.7
+2026-08-17,Mon,Matcha Roll Cake (slice),Cakes,18,5.8,104.4,2.9,52.2
+2026-08-17,Mon,Matcha Layer Cake (slice),Cakes,15,6.2,93,2.7,40.5
+2026-08-17,Mon,Matcha Dome Mousse,Cakes,14,6.8,95.2,3.7,51.8
+2026-08-17,Mon,Matcha Latte,Drinks,51,4.6,234.6,1.25,63.75
+2026-08-17,Mon,Iced Matcha,Drinks,47,4.9,230.3,1.45,68.15
+2026-08-17,Mon,Hojicha Latte,Drinks,19,4.4,83.6,1.1,20.9
+2026-08-17,Mon,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-08-18,Tue,Matcha Melon Pan,Bread,34,3.8,129.2,1.05,35.7
+2026-08-18,Tue,Classic Melon Pan,Bread,25,3.4,85,0.85,21.25
+2026-08-18,Tue,Anpan,Bread,20,3.2,64,0.95,19
+2026-08-18,Tue,Curry Pan,Bread,20,4.2,84,1.4,28
+2026-08-18,Tue,Shokupan Loaf,Bread,14,6.5,91,1.7,23.8
+2026-08-18,Tue,Dorayaki,Sweets,24,3.6,86.4,1.1,26.4
+2026-08-18,Tue,Taiyaki (Red Bean),Sweets,24,3.5,84,1.35,32.4
+2026-08-18,Tue,Matcha Roll Cake (slice),Cakes,19,5.8,110.2,2.9,55.1
+2026-08-18,Tue,Matcha Layer Cake (slice),Cakes,13,6.2,80.6,2.7,35.1
+2026-08-18,Tue,Matcha Dome Mousse,Cakes,13,6.8,88.4,3.7,48.1
+2026-08-18,Tue,Matcha Latte,Drinks,52,4.6,239.2,1.25,65
+2026-08-18,Tue,Iced Matcha,Drinks,42,4.9,205.8,1.45,60.9
+2026-08-18,Tue,Hojicha Latte,Drinks,21,4.4,92.4,1.1,23.1
+2026-08-18,Tue,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6
+2026-08-19,Wed,Matcha Melon Pan,Bread,44,3.8,167.2,1.05,46.2
+2026-08-19,Wed,Classic Melon Pan,Bread,29,3.4,98.6,0.85,24.65
+2026-08-19,Wed,Anpan,Bread,26,3.2,83.2,0.95,24.7
+2026-08-19,Wed,Curry Pan,Bread,23,4.2,96.6,1.4,32.2
+2026-08-19,Wed,Shokupan Loaf,Bread,17,6.5,110.5,1.7,28.9
+2026-08-19,Wed,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-08-19,Wed,Taiyaki (Red Bean),Sweets,23,3.5,80.5,1.35,31.05
+2026-08-19,Wed,Matcha Roll Cake (slice),Cakes,18,5.8,104.4,2.9,52.2
+2026-08-19,Wed,Matcha Layer Cake (slice),Cakes,15,6.2,93,2.7,40.5
+2026-08-19,Wed,Matcha Dome Mousse,Cakes,13,6.8,88.4,3.7,48.1
+2026-08-19,Wed,Matcha Latte,Drinks,59,4.6,271.4,1.25,73.75
+2026-08-19,Wed,Iced Matcha,Drinks,60,4.9,294,1.45,87
+2026-08-19,Wed,Hojicha Latte,Drinks,18,4.4,79.2,1.1,19.8
+2026-08-19,Wed,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-08-20,Thu,Matcha Melon Pan,Bread,52,3.8,197.6,1.05,54.6
+2026-08-20,Thu,Classic Melon Pan,Bread,26,3.4,88.4,0.85,22.1
+2026-08-20,Thu,Anpan,Bread,28,3.2,89.6,0.95,26.6
+2026-08-20,Thu,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-08-20,Thu,Shokupan Loaf,Bread,16,6.5,104,1.7,27.2
+2026-08-20,Thu,Dorayaki,Sweets,29,3.6,104.4,1.1,31.9
+2026-08-20,Thu,Taiyaki (Red Bean),Sweets,26,3.5,91,1.35,35.1
+2026-08-20,Thu,Matcha Roll Cake (slice),Cakes,22,5.8,127.6,2.9,63.8
+2026-08-20,Thu,Matcha Layer Cake (slice),Cakes,18,6.2,111.6,2.7,48.6
+2026-08-20,Thu,Matcha Dome Mousse,Cakes,16,6.8,108.8,3.7,59.2
+2026-08-20,Thu,Matcha Latte,Drinks,66,4.6,303.6,1.25,82.5
+2026-08-20,Thu,Iced Matcha,Drinks,50,4.9,245,1.45,72.5
+2026-08-20,Thu,Hojicha Latte,Drinks,24,4.4,105.6,1.1,26.4
+2026-08-20,Thu,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-08-21,Fri,Matcha Melon Pan,Bread,55,3.8,209,1.05,57.75
+2026-08-21,Fri,Classic Melon Pan,Bread,33,3.4,112.2,0.85,28.05
+2026-08-21,Fri,Anpan,Bread,28,3.2,89.6,0.95,26.6
+2026-08-21,Fri,Curry Pan,Bread,26,4.2,109.2,1.4,36.4
+2026-08-21,Fri,Shokupan Loaf,Bread,21,6.5,136.5,1.7,35.7
+2026-08-21,Fri,Dorayaki,Sweets,31,3.6,111.6,1.1,34.1
+2026-08-21,Fri,Taiyaki (Red Bean),Sweets,28,3.5,98,1.35,37.8
+2026-08-21,Fri,Matcha Roll Cake (slice),Cakes,23,5.8,133.4,2.9,66.7
+2026-08-21,Fri,Matcha Layer Cake (slice),Cakes,20,6.2,124,2.7,54
+2026-08-21,Fri,Matcha Dome Mousse,Cakes,16,6.8,108.8,3.7,59.2
+2026-08-21,Fri,Matcha Latte,Drinks,78,4.6,358.8,1.25,97.5
+2026-08-21,Fri,Iced Matcha,Drinks,69,4.9,338.1,1.45,100.05
+2026-08-21,Fri,Hojicha Latte,Drinks,22,4.4,96.8,1.1,24.2
+2026-08-21,Fri,Sencha (pot),Drinks,15,3.8,57,0.6,9
+2026-08-22,Sat,Matcha Melon Pan,Bread,82,3.8,311.6,1.05,86.1
+2026-08-22,Sat,Classic Melon Pan,Bread,47,3.4,159.8,0.85,39.95
+2026-08-22,Sat,Anpan,Bread,32,3.2,102.4,0.95,30.4
+2026-08-22,Sat,Curry Pan,Bread,36,4.2,151.2,1.4,50.4
+2026-08-22,Sat,Shokupan Loaf,Bread,31,6.5,201.5,1.7,52.7
+2026-08-22,Sat,Dorayaki,Sweets,40,3.6,144,1.1,44
+2026-08-22,Sat,Taiyaki (Red Bean),Sweets,47,3.5,164.5,1.35,63.45
+2026-08-22,Sat,Matcha Roll Cake (slice),Cakes,31,5.8,179.8,2.9,89.9
+2026-08-22,Sat,Matcha Layer Cake (slice),Cakes,25,6.2,155,2.7,67.5
+2026-08-22,Sat,Matcha Dome Mousse,Cakes,21,6.8,142.8,3.7,77.7
+2026-08-22,Sat,Matcha Latte,Drinks,88,4.6,404.8,1.25,110
+2026-08-22,Sat,Iced Matcha,Drinks,69,4.9,338.1,1.45,100.05
+2026-08-22,Sat,Hojicha Latte,Drinks,39,4.4,171.6,1.1,42.9
+2026-08-22,Sat,Sencha (pot),Drinks,20,3.8,76,0.6,12
+2026-08-23,Sun,Matcha Melon Pan,Bread,63,3.8,239.4,1.05,66.15
+2026-08-23,Sun,Classic Melon Pan,Bread,45,3.4,153,0.85,38.25
+2026-08-23,Sun,Anpan,Bread,30,3.2,96,0.95,28.5
+2026-08-23,Sun,Curry Pan,Bread,36,4.2,151.2,1.4,50.4
+2026-08-23,Sun,Shokupan Loaf,Bread,23,6.5,149.5,1.7,39.1
+2026-08-23,Sun,Dorayaki,Sweets,32,3.6,115.2,1.1,35.2
+2026-08-23,Sun,Taiyaki (Red Bean),Sweets,46,3.5,161,1.35,62.1
+2026-08-23,Sun,Matcha Roll Cake (slice),Cakes,31,5.8,179.8,2.9,89.9
+2026-08-23,Sun,Matcha Layer Cake (slice),Cakes,26,6.2,161.2,2.7,70.2
+2026-08-23,Sun,Matcha Dome Mousse,Cakes,21,6.8,142.8,3.7,77.7
+2026-08-23,Sun,Matcha Latte,Drinks,90,4.6,414,1.25,112.5
+2026-08-23,Sun,Iced Matcha,Drinks,73,4.9,357.7,1.45,105.85
+2026-08-23,Sun,Hojicha Latte,Drinks,34,4.4,149.6,1.1,37.4
+2026-08-23,Sun,Sencha (pot),Drinks,19,3.8,72.2,0.6,11.4
+2026-08-24,Mon,Matcha Melon Pan,Bread,36,3.8,136.8,1.05,37.8
+2026-08-24,Mon,Classic Melon Pan,Bread,31,3.4,105.4,0.85,26.35
+2026-08-24,Mon,Anpan,Bread,21,3.2,67.2,0.95,19.95
+2026-08-24,Mon,Curry Pan,Bread,22,4.2,92.4,1.4,30.8
+2026-08-24,Mon,Shokupan Loaf,Bread,15,6.5,97.5,1.7,25.5
+2026-08-24,Mon,Dorayaki,Sweets,23,3.6,82.8,1.1,25.3
+2026-08-24,Mon,Taiyaki (Red Bean),Sweets,25,3.5,87.5,1.35,33.75
+2026-08-24,Mon,Matcha Roll Cake (slice),Cakes,21,5.8,121.8,2.9,60.9
+2026-08-24,Mon,Matcha Layer Cake (slice),Cakes,15,6.2,93,2.7,40.5
+2026-08-24,Mon,Matcha Dome Mousse,Cakes,11,6.8,74.8,3.7,40.7
+2026-08-24,Mon,Matcha Latte,Drinks,54,4.6,248.4,1.25,67.5
+2026-08-24,Mon,Iced Matcha,Drinks,41,4.9,200.9,1.45,59.45
+2026-08-24,Mon,Hojicha Latte,Drinks,20,4.4,88,1.1,22
+2026-08-24,Mon,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-08-25,Tue,Matcha Melon Pan,Bread,39,3.8,148.2,1.05,40.95
+2026-08-25,Tue,Classic Melon Pan,Bread,27,3.4,91.8,0.85,22.95
+2026-08-25,Tue,Anpan,Bread,19,3.2,60.8,0.95,18.05
+2026-08-25,Tue,Curry Pan,Bread,16,4.2,67.2,1.4,22.4
+2026-08-25,Tue,Shokupan Loaf,Bread,14,6.5,91,1.7,23.8
+2026-08-25,Tue,Dorayaki,Sweets,20,3.6,72,1.1,22
+2026-08-25,Tue,Taiyaki (Red Bean),Sweets,22,3.5,77,1.35,29.7
+2026-08-25,Tue,Matcha Roll Cake (slice),Cakes,18,5.8,104.4,2.9,52.2
+2026-08-25,Tue,Matcha Layer Cake (slice),Cakes,15,6.2,93,2.7,40.5
+2026-08-25,Tue,Matcha Dome Mousse,Cakes,10,6.8,68,3.7,37
+2026-08-25,Tue,Matcha Latte,Drinks,53,4.6,243.8,1.25,66.25
+2026-08-25,Tue,Iced Matcha,Drinks,46,4.9,225.4,1.45,66.7
+2026-08-25,Tue,Hojicha Latte,Drinks,20,4.4,88,1.1,22
+2026-08-25,Tue,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-08-26,Wed,Matcha Melon Pan,Bread,51,3.8,193.8,1.05,53.55
+2026-08-26,Wed,Classic Melon Pan,Bread,25,3.4,85,0.85,21.25
+2026-08-26,Wed,Anpan,Bread,24,3.2,76.8,0.95,22.8
+2026-08-26,Wed,Curry Pan,Bread,19,4.2,79.8,1.4,26.6
+2026-08-26,Wed,Shokupan Loaf,Bread,19,6.5,123.5,1.7,32.3
+2026-08-26,Wed,Dorayaki,Sweets,28,3.6,100.8,1.1,30.8
+2026-08-26,Wed,Taiyaki (Red Bean),Sweets,24,3.5,84,1.35,32.4
+2026-08-26,Wed,Matcha Roll Cake (slice),Cakes,20,5.8,116,2.9,58
+2026-08-26,Wed,Matcha Layer Cake (slice),Cakes,16,6.2,99.2,2.7,43.2
+2026-08-26,Wed,Matcha Dome Mousse,Cakes,15,6.8,102,3.7,55.5
+2026-08-26,Wed,Matcha Latte,Drinks,59,4.6,271.4,1.25,73.75
+2026-08-26,Wed,Iced Matcha,Drinks,44,4.9,215.6,1.45,63.8
+2026-08-26,Wed,Hojicha Latte,Drinks,23,4.4,101.2,1.1,25.3
+2026-08-26,Wed,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-08-27,Thu,Matcha Melon Pan,Bread,41,3.8,155.8,1.05,43.05
+2026-08-27,Thu,Classic Melon Pan,Bread,33,3.4,112.2,0.85,28.05
+2026-08-27,Thu,Anpan,Bread,24,3.2,76.8,0.95,22.8
+2026-08-27,Thu,Curry Pan,Bread,26,4.2,109.2,1.4,36.4
+2026-08-27,Thu,Shokupan Loaf,Bread,19,6.5,123.5,1.7,32.3
+2026-08-27,Thu,Dorayaki,Sweets,26,3.6,93.6,1.1,28.6
+2026-08-27,Thu,Taiyaki (Red Bean),Sweets,28,3.5,98,1.35,37.8
+2026-08-27,Thu,Matcha Roll Cake (slice),Cakes,21,5.8,121.8,2.9,60.9
+2026-08-27,Thu,Matcha Layer Cake (slice),Cakes,18,6.2,111.6,2.7,48.6
+2026-08-27,Thu,Matcha Dome Mousse,Cakes,12,6.8,81.6,3.7,44.4
+2026-08-27,Thu,Matcha Latte,Drinks,58,4.6,266.8,1.25,72.5
+2026-08-27,Thu,Iced Matcha,Drinks,53,4.9,259.7,1.45,76.85
+2026-08-27,Thu,Hojicha Latte,Drinks,20,4.4,88,1.1,22
+2026-08-27,Thu,Sencha (pot),Drinks,14,3.8,53.2,0.6,8.4
+2026-08-28,Fri,Matcha Melon Pan,Bread,51,3.8,193.8,1.05,53.55
+2026-08-28,Fri,Classic Melon Pan,Bread,39,3.4,132.6,0.85,33.15
+2026-08-28,Fri,Anpan,Bread,32,3.2,102.4,0.95,30.4
+2026-08-28,Fri,Curry Pan,Bread,23,4.2,96.6,1.4,32.2
+2026-08-28,Fri,Shokupan Loaf,Bread,23,6.5,149.5,1.7,39.1
+2026-08-28,Fri,Dorayaki,Sweets,33,3.6,118.8,1.1,36.3
+2026-08-28,Fri,Taiyaki (Red Bean),Sweets,31,3.5,108.5,1.35,41.85
+2026-08-28,Fri,Matcha Roll Cake (slice),Cakes,25,5.8,145,2.9,72.5
+2026-08-28,Fri,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,2.7,45.9
+2026-08-28,Fri,Matcha Dome Mousse,Cakes,18,6.8,122.4,3.7,66.6
+2026-08-28,Fri,Matcha Latte,Drinks,69,4.6,317.4,1.25,86.25
+2026-08-28,Fri,Iced Matcha,Drinks,67,4.9,328.3,1.45,97.15
+2026-08-28,Fri,Hojicha Latte,Drinks,24,4.4,105.6,1.1,26.4
+2026-08-28,Fri,Sencha (pot),Drinks,16,3.8,60.8,0.6,9.6
+2026-08-29,Sat,Matcha Melon Pan,Bread,72,3.8,273.6,1.05,75.6
+2026-08-29,Sat,Classic Melon Pan,Bread,43,3.4,146.2,0.85,36.55
+2026-08-29,Sat,Anpan,Bread,34,3.2,108.8,0.95,32.3
+2026-08-29,Sat,Curry Pan,Bread,33,4.2,138.6,1.4,46.2
+2026-08-29,Sat,Shokupan Loaf,Bread,28,6.5,182,1.7,47.6
+2026-08-29,Sat,Dorayaki,Sweets,37,3.6,133.2,1.1,40.7
+2026-08-29,Sat,Taiyaki (Red Bean),Sweets,51,3.5,178.5,1.35,68.85
+2026-08-29,Sat,Matcha Roll Cake (slice),Cakes,28,5.8,162.4,2.9,81.2
+2026-08-29,Sat,Matcha Layer Cake (slice),Cakes,27,6.2,167.4,2.7,72.9
+2026-08-29,Sat,Matcha Dome Mousse,Cakes,23,6.8,156.4,3.7,85.1
+2026-08-29,Sat,Matcha Latte,Drinks,92,4.6,423.2,1.25,115
+2026-08-29,Sat,Iced Matcha,Drinks,68,4.9,333.2,1.45,98.6
+2026-08-29,Sat,Hojicha Latte,Drinks,39,4.4,171.6,1.1,42.9
+2026-08-29,Sat,Sencha (pot),Drinks,19,3.8,72.2,0.6,11.4
+2026-08-30,Sun,Matcha Melon Pan,Bread,66,3.8,250.8,1.05,69.3
+2026-08-30,Sun,Classic Melon Pan,Bread,48,3.4,163.2,0.85,40.8
+2026-08-30,Sun,Anpan,Bread,40,3.2,128,0.95,38
+2026-08-30,Sun,Curry Pan,Bread,28,4.2,117.6,1.4,39.2
+2026-08-30,Sun,Shokupan Loaf,Bread,24,6.5,156,1.7,40.8
+2026-08-30,Sun,Dorayaki,Sweets,33,3.6,118.8,1.1,36.3
+2026-08-30,Sun,Taiyaki (Red Bean),Sweets,46,3.5,161,1.35,62.1
+2026-08-30,Sun,Matcha Roll Cake (slice),Cakes,33,5.8,191.4,2.9,95.7
+2026-08-30,Sun,Matcha Layer Cake (slice),Cakes,20,6.2,124,2.7,54
+2026-08-30,Sun,Matcha Dome Mousse,Cakes,20,6.8,136,3.7,74
+2026-08-30,Sun,Matcha Latte,Drinks,97,4.6,446.2,1.25,121.25
+2026-08-30,Sun,Iced Matcha,Drinks,81,4.9,396.9,1.45,117.45
+2026-08-30,Sun,Hojicha Latte,Drinks,37,4.4,162.8,1.1,40.7
+2026-08-30,Sun,Sencha (pot),Drinks,17,3.8,64.6,0.6,10.2
+2026-08-31,Mon,Matcha Melon Pan,Bread,80,3.8,304,1.05,84
+2026-08-31,Mon,Classic Melon Pan,Bread,42,3.4,142.8,0.85,35.7
+2026-08-31,Mon,Anpan,Bread,34,3.2,108.8,0.95,32.3
+2026-08-31,Mon,Curry Pan,Bread,38,4.2,159.6,1.4,53.2
+2026-08-31,Mon,Shokupan Loaf,Bread,30,6.5,195,1.7,51
+2026-08-31,Mon,Dorayaki,Sweets,43,3.6,154.8,1.1,47.3
+2026-08-31,Mon,Taiyaki (Red Bean),Sweets,45,3.5,157.5,1.35,60.75
+2026-08-31,Mon,Matcha Roll Cake (slice),Cakes,26,5.8,150.8,2.9,75.4
+2026-08-31,Mon,Matcha Layer Cake (slice),Cakes,26,6.2,161.2,2.7,70.2
+2026-08-31,Mon,Matcha Dome Mousse,Cakes,23,6.8,156.4,3.7,85.1
+2026-08-31,Mon,Matcha Latte,Drinks,91,4.6,418.6,1.25,113.75
+2026-08-31,Mon,Iced Matcha,Drinks,60,4.9,294,1.45,87
+2026-08-31,Mon,Hojicha Latte,Drinks,31,4.4,136.4,1.1,34.1
+2026-08-31,Mon,Sencha (pot),Drinks,18,3.8,68.4,0.6,10.8
+2026-09-01,Tue,Matcha Melon Pan,Bread,36,3.8,136.8,1.15,41.4
+2026-09-01,Tue,Classic Melon Pan,Bread,22,3.4,74.8,0.85,18.7
+2026-09-01,Tue,Anpan,Bread,19,3.2,60.8,0.95,18.05
+2026-09-01,Tue,Curry Pan,Bread,22,4.2,92.4,1.4,30.8
+2026-09-01,Tue,Shokupan Loaf,Bread,18,6.5,117,1.7,30.6
+2026-09-01,Tue,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-09-01,Tue,Taiyaki (Red Bean),Sweets,24,3.5,84,1.35,32.4
+2026-09-01,Tue,Matcha Roll Cake (slice),Cakes,20,5.8,116,3.35,67
+2026-09-01,Tue,Matcha Layer Cake (slice),Cakes,15,6.2,93,3.05,45.75
+2026-09-01,Tue,Matcha Dome Mousse,Cakes,12,6.8,81.6,4.25,51
+2026-09-01,Tue,Matcha Latte,Drinks,56,4.6,257.6,1.55,86.8
+2026-09-01,Tue,Iced Matcha,Drinks,22,4.9,107.8,1.75,38.5
+2026-09-01,Tue,Hojicha Latte,Drinks,19,4.4,83.6,1.1,20.9
+2026-09-01,Tue,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6
+2026-09-02,Wed,Matcha Melon Pan,Bread,42,3.8,159.6,1.15,48.3
+2026-09-02,Wed,Classic Melon Pan,Bread,26,3.4,88.4,0.85,22.1
+2026-09-02,Wed,Anpan,Bread,26,3.2,83.2,0.95,24.7
+2026-09-02,Wed,Curry Pan,Bread,20,4.2,84,1.4,28
+2026-09-02,Wed,Shokupan Loaf,Bread,17,6.5,110.5,1.7,28.9
+2026-09-02,Wed,Dorayaki,Sweets,23,3.6,82.8,1.1,25.3
+2026-09-02,Wed,Taiyaki (Red Bean),Sweets,24,3.5,84,1.35,32.4
+2026-09-02,Wed,Matcha Roll Cake (slice),Cakes,21,5.8,121.8,3.35,70.35
+2026-09-02,Wed,Matcha Layer Cake (slice),Cakes,16,6.2,99.2,3.05,48.8
+2026-09-02,Wed,Matcha Dome Mousse,Cakes,13,6.8,88.4,4.25,55.25
+2026-09-02,Wed,Matcha Latte,Drinks,61,4.6,280.6,1.55,94.55
+2026-09-02,Wed,Iced Matcha,Drinks,38,4.9,186.2,1.75,66.5
+2026-09-02,Wed,Hojicha Latte,Drinks,21,4.4,92.4,1.1,23.1
+2026-09-02,Wed,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-09-03,Thu,Matcha Melon Pan,Bread,45,3.8,171,1.15,51.75
+2026-09-03,Thu,Classic Melon Pan,Bread,27,3.4,91.8,0.85,22.95
+2026-09-03,Thu,Anpan,Bread,24,3.2,76.8,0.95,22.8
+2026-09-03,Thu,Curry Pan,Bread,19,4.2,79.8,1.4,26.6
+2026-09-03,Thu,Shokupan Loaf,Bread,19,6.5,123.5,1.7,32.3
+2026-09-03,Thu,Dorayaki,Sweets,27,3.6,97.2,1.1,29.7
+2026-09-03,Thu,Taiyaki (Red Bean),Sweets,27,3.5,94.5,1.35,36.45
+2026-09-03,Thu,Matcha Roll Cake (slice),Cakes,19,5.8,110.2,3.35,63.65
+2026-09-03,Thu,Matcha Layer Cake (slice),Cakes,18,6.2,111.6,3.05,54.9
+2026-09-03,Thu,Matcha Dome Mousse,Cakes,13,6.8,88.4,4.25,55.25
+2026-09-03,Thu,Matcha Latte,Drinks,59,4.6,271.4,1.55,91.45
+2026-09-03,Thu,Iced Matcha,Drinks,33,4.9,161.7,1.75,57.75
+2026-09-03,Thu,Hojicha Latte,Drinks,23,4.4,101.2,1.1,25.3
+2026-09-03,Thu,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-09-04,Fri,Matcha Melon Pan,Bread,51,3.8,193.8,1.15,58.65
+2026-09-04,Fri,Classic Melon Pan,Bread,39,3.4,132.6,0.85,33.15
+2026-09-04,Fri,Anpan,Bread,31,3.2,99.2,0.95,29.45
+2026-09-04,Fri,Curry Pan,Bread,29,4.2,121.8,1.4,40.6
+2026-09-04,Fri,Shokupan Loaf,Bread,24,6.5,156,1.7,40.8
+2026-09-04,Fri,Dorayaki,Sweets,31,3.6,111.6,1.1,34.1
+2026-09-04,Fri,Taiyaki (Red Bean),Sweets,38,3.5,133,1.35,51.3
+2026-09-04,Fri,Matcha Roll Cake (slice),Cakes,27,5.8,156.6,3.35,90.45
+2026-09-04,Fri,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,3.05,51.85
+2026-09-04,Fri,Matcha Dome Mousse,Cakes,16,6.8,108.8,4.25,68
+2026-09-04,Fri,Matcha Latte,Drinks,75,4.6,345,1.55,116.25
+2026-09-04,Fri,Iced Matcha,Drinks,32,4.9,156.8,1.75,56
+2026-09-04,Fri,Hojicha Latte,Drinks,29,4.4,127.6,1.1,31.9
+2026-09-04,Fri,Sencha (pot),Drinks,13,3.8,49.4,0.6,7.8
+2026-09-05,Sat,Matcha Melon Pan,Bread,81,3.8,307.8,1.15,93.15
+2026-09-05,Sat,Classic Melon Pan,Bread,51,3.4,173.4,0.85,43.35
+2026-09-05,Sat,Anpan,Bread,41,3.2,131.2,0.95,38.95
+2026-09-05,Sat,Curry Pan,Bread,39,4.2,163.8,1.4,54.6
+2026-09-05,Sat,Shokupan Loaf,Bread,29,6.5,188.5,1.7,49.3
+2026-09-05,Sat,Dorayaki,Sweets,42,3.6,151.2,1.1,46.2
+2026-09-05,Sat,Taiyaki (Red Bean),Sweets,38,3.5,133,1.35,51.3
+2026-09-05,Sat,Matcha Roll Cake (slice),Cakes,29,5.8,168.2,3.35,97.15
+2026-09-05,Sat,Matcha Layer Cake (slice),Cakes,22,6.2,136.4,3.05,67.1
+2026-09-05,Sat,Matcha Dome Mousse,Cakes,24,6.8,163.2,4.25,102
+2026-09-05,Sat,Matcha Latte,Drinks,91,4.6,418.6,1.55,141.05
+2026-09-05,Sat,Iced Matcha,Drinks,48,4.9,235.2,1.75,84
+2026-09-05,Sat,Hojicha Latte,Drinks,40,4.4,176,1.1,44
+2026-09-05,Sat,Sencha (pot),Drinks,19,3.8,72.2,0.6,11.4
+2026-09-06,Sun,Matcha Melon Pan,Bread,76,3.8,288.8,1.15,87.4
+2026-09-06,Sun,Classic Melon Pan,Bread,38,3.4,129.2,0.85,32.3
+2026-09-06,Sun,Anpan,Bread,36,3.2,115.2,0.95,34.2
+2026-09-06,Sun,Curry Pan,Bread,31,4.2,130.2,1.4,43.4
+2026-09-06,Sun,Shokupan Loaf,Bread,26,6.5,169,1.7,44.2
+2026-09-06,Sun,Dorayaki,Sweets,40,3.6,144,1.1,44
+2026-09-06,Sun,Taiyaki (Red Bean),Sweets,37,3.5,129.5,1.35,49.95
+2026-09-06,Sun,Matcha Roll Cake (slice),Cakes,32,5.8,185.6,3.35,107.2
+2026-09-06,Sun,Matcha Layer Cake (slice),Cakes,26,6.2,161.2,3.05,79.3
+2026-09-06,Sun,Matcha Dome Mousse,Cakes,20,6.8,136,4.25,85
+2026-09-06,Sun,Matcha Latte,Drinks,106,4.6,487.6,1.55,164.3
+2026-09-06,Sun,Iced Matcha,Drinks,38,4.9,186.2,1.75,66.5
+2026-09-06,Sun,Hojicha Latte,Drinks,40,4.4,176,1.1,44
+2026-09-06,Sun,Sencha (pot),Drinks,16,3.8,60.8,0.6,9.6
+2026-09-07,Mon,Matcha Melon Pan,Bread,49,3.8,186.2,1.15,56.35
+2026-09-07,Mon,Classic Melon Pan,Bread,32,3.4,108.8,0.85,27.2
+2026-09-07,Mon,Anpan,Bread,25,3.2,80,0.95,23.75
+2026-09-07,Mon,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-09-07,Mon,Shokupan Loaf,Bread,19,6.5,123.5,1.7,32.3
+2026-09-07,Mon,Dorayaki,Sweets,24,3.6,86.4,1.1,26.4
+2026-09-07,Mon,Taiyaki (Red Bean),Sweets,25,3.5,87.5,1.35,33.75
+2026-09-07,Mon,Matcha Roll Cake (slice),Cakes,16,5.8,92.8,3.35,53.6
+2026-09-07,Mon,Matcha Layer Cake (slice),Cakes,15,6.2,93,3.05,45.75
+2026-09-07,Mon,Matcha Dome Mousse,Cakes,12,6.8,81.6,4.25,51
+2026-09-07,Mon,Matcha Latte,Drinks,66,4.6,303.6,1.55,102.3
+2026-09-07,Mon,Iced Matcha,Drinks,29,4.9,142.1,1.75,50.75
+2026-09-07,Mon,Hojicha Latte,Drinks,26,4.4,114.4,1.1,28.6
+2026-09-07,Mon,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-09-08,Tue,Matcha Melon Pan,Bread,43,3.8,163.4,1.15,49.45
+2026-09-08,Tue,Classic Melon Pan,Bread,27,3.4,91.8,0.85,22.95
+2026-09-08,Tue,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-09-08,Tue,Curry Pan,Bread,20,4.2,84,1.4,28
+2026-09-08,Tue,Shokupan Loaf,Bread,18,6.5,117,1.7,30.6
+2026-09-08,Tue,Dorayaki,Sweets,22,3.6,79.2,1.1,24.2
+2026-09-08,Tue,Taiyaki (Red Bean),Sweets,22,3.5,77,1.35,29.7
+2026-09-08,Tue,Matcha Roll Cake (slice),Cakes,20,5.8,116,3.35,67
+2026-09-08,Tue,Matcha Layer Cake (slice),Cakes,13,6.2,80.6,3.05,39.65
+2026-09-08,Tue,Matcha Dome Mousse,Cakes,12,6.8,81.6,4.25,51
+2026-09-08,Tue,Matcha Latte,Drinks,51,4.6,234.6,1.55,79.05
+2026-09-08,Tue,Iced Matcha,Drinks,23,4.9,112.7,1.75,40.25
+2026-09-08,Tue,Hojicha Latte,Drinks,20,4.4,88,1.1,22
+2026-09-08,Tue,Sencha (pot),Drinks,9,3.8,34.2,0.6,5.4
+2026-09-09,Wed,Matcha Melon Pan,Bread,47,3.8,178.6,1.15,54.05
+2026-09-09,Wed,Classic Melon Pan,Bread,31,3.4,105.4,0.85,26.35
+2026-09-09,Wed,Anpan,Bread,25,3.2,80,0.95,23.75
+2026-09-09,Wed,Curry Pan,Bread,22,4.2,92.4,1.4,30.8
+2026-09-09,Wed,Shokupan Loaf,Bread,18,6.5,117,1.7,30.6
+2026-09-09,Wed,Dorayaki,Sweets,24,3.6,86.4,1.1,26.4
+2026-09-09,Wed,Taiyaki (Red Bean),Sweets,28,3.5,98,1.35,37.8
+2026-09-09,Wed,Matcha Roll Cake (slice),Cakes,20,5.8,116,3.35,67
+2026-09-09,Wed,Matcha Layer Cake (slice),Cakes,15,6.2,93,3.05,45.75
+2026-09-09,Wed,Matcha Dome Mousse,Cakes,13,6.8,88.4,4.25,55.25
+2026-09-09,Wed,Matcha Latte,Drinks,64,4.6,294.4,1.55,99.2
+2026-09-09,Wed,Iced Matcha,Drinks,38,4.9,186.2,1.75,66.5
+2026-09-09,Wed,Hojicha Latte,Drinks,27,4.4,118.8,1.1,29.7
+2026-09-09,Wed,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-09-10,Thu,Matcha Melon Pan,Bread,42,3.8,159.6,1.15,48.3
+2026-09-10,Thu,Classic Melon Pan,Bread,31,3.4,105.4,0.85,26.35
+2026-09-10,Thu,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-09-10,Thu,Curry Pan,Bread,26,4.2,109.2,1.4,36.4
+2026-09-10,Thu,Shokupan Loaf,Bread,17,6.5,110.5,1.7,28.9
+2026-09-10,Thu,Dorayaki,Sweets,26,3.6,93.6,1.1,28.6
+2026-09-10,Thu,Taiyaki (Red Bean),Sweets,30,3.5,105,1.35,40.5
+2026-09-10,Thu,Matcha Roll Cake (slice),Cakes,23,5.8,133.4,3.35,77.05
+2026-09-10,Thu,Matcha Layer Cake (slice),Cakes,18,6.2,111.6,3.05,54.9
+2026-09-10,Thu,Matcha Dome Mousse,Cakes,16,6.8,108.8,4.25,68
+2026-09-10,Thu,Matcha Latte,Drinks,74,4.6,340.4,1.55,114.7
+2026-09-10,Thu,Iced Matcha,Drinks,35,4.9,171.5,1.75,61.25
+2026-09-10,Thu,Hojicha Latte,Drinks,29,4.4,127.6,1.1,31.9
+2026-09-10,Thu,Sencha (pot),Drinks,14,3.8,53.2,0.6,8.4
+2026-09-11,Fri,Matcha Melon Pan,Bread,64,3.8,243.2,1.15,73.6
+2026-09-11,Fri,Classic Melon Pan,Bread,36,3.4,122.4,0.85,30.6
+2026-09-11,Fri,Anpan,Bread,33,3.2,105.6,0.95,31.35
+2026-09-11,Fri,Curry Pan,Bread,26,4.2,109.2,1.4,36.4
+2026-09-11,Fri,Shokupan Loaf,Bread,22,6.5,143,1.7,37.4
+2026-09-11,Fri,Dorayaki,Sweets,30,3.6,108,1.1,33
+2026-09-11,Fri,Taiyaki (Red Bean),Sweets,35,3.5,122.5,1.35,47.25
+2026-09-11,Fri,Matcha Roll Cake (slice),Cakes,23,5.8,133.4,3.35,77.05
+2026-09-11,Fri,Matcha Layer Cake (slice),Cakes,22,6.2,136.4,3.05,67.1
+2026-09-11,Fri,Matcha Dome Mousse,Cakes,17,6.8,115.6,4.25,72.25
+2026-09-11,Fri,Matcha Latte,Drinks,75,4.6,345,1.55,116.25
+2026-09-11,Fri,Iced Matcha,Drinks,37,4.9,181.3,1.75,64.75
+2026-09-11,Fri,Hojicha Latte,Drinks,26,4.4,114.4,1.1,28.6
+2026-09-11,Fri,Sencha (pot),Drinks,14,3.8,53.2,0.6,8.4
+2026-09-12,Sat,Matcha Melon Pan,Bread,84,3.8,319.2,1.15,96.6
+2026-09-12,Sat,Classic Melon Pan,Bread,47,3.4,159.8,0.85,39.95
+2026-09-12,Sat,Anpan,Bread,33,3.2,105.6,0.95,31.35
+2026-09-12,Sat,Curry Pan,Bread,36,4.2,151.2,1.4,50.4
+2026-09-12,Sat,Shokupan Loaf,Bread,33,6.5,214.5,1.7,56.1
+2026-09-12,Sat,Dorayaki,Sweets,42,3.6,151.2,1.1,46.2
+2026-09-12,Sat,Taiyaki (Red Bean),Sweets,45,3.5,157.5,1.35,60.75
+2026-09-12,Sat,Matcha Roll Cake (slice),Cakes,34,5.8,197.2,3.35,113.9
+2026-09-12,Sat,Matcha Layer Cake (slice),Cakes,25,6.2,155,3.05,76.25
+2026-09-12,Sat,Matcha Dome Mousse,Cakes,22,6.8,149.6,4.25,93.5
+2026-09-12,Sat,Matcha Latte,Drinks,110,4.6,506,1.55,170.5
+2026-09-12,Sat,Iced Matcha,Drinks,47,4.9,230.3,1.75,82.25
+2026-09-12,Sat,Hojicha Latte,Drinks,38,4.4,167.2,1.1,41.8
+2026-09-12,Sat,Sencha (pot),Drinks,20,3.8,76,0.6,12
+2026-09-13,Sun,Matcha Melon Pan,Bread,69,3.8,262.2,1.15,79.35
+2026-09-13,Sun,Classic Melon Pan,Bread,47,3.4,159.8,0.85,39.95
+2026-09-13,Sun,Anpan,Bread,34,3.2,108.8,0.95,32.3
+2026-09-13,Sun,Curry Pan,Bread,36,4.2,151.2,1.4,50.4
+2026-09-13,Sun,Shokupan Loaf,Bread,26,6.5,169,1.7,44.2
+2026-09-13,Sun,Dorayaki,Sweets,43,3.6,154.8,1.1,47.3
+2026-09-13,Sun,Taiyaki (Red Bean),Sweets,37,3.5,129.5,1.35,49.95
+2026-09-13,Sun,Matcha Roll Cake (slice),Cakes,32,5.8,185.6,3.35,107.2
+2026-09-13,Sun,Matcha Layer Cake (slice),Cakes,28,6.2,173.6,3.05,85.4
+2026-09-13,Sun,Matcha Dome Mousse,Cakes,20,6.8,136,4.25,85
+2026-09-13,Sun,Matcha Latte,Drinks,91,4.6,418.6,1.55,141.05
+2026-09-13,Sun,Iced Matcha,Drinks,51,4.9,249.9,1.75,89.25
+2026-09-13,Sun,Hojicha Latte,Drinks,33,4.4,145.2,1.1,36.3
+2026-09-13,Sun,Sencha (pot),Drinks,19,3.8,72.2,0.6,11.4
+2026-09-14,Mon,Matcha Melon Pan,Bread,45,3.8,171,1.15,51.75
+2026-09-14,Mon,Classic Melon Pan,Bread,28,3.4,95.2,0.85,23.8
+2026-09-14,Mon,Anpan,Bread,21,3.2,67.2,0.95,19.95
+2026-09-14,Mon,Curry Pan,Bread,18,4.2,75.6,1.4,25.2
+2026-09-14,Mon,Shokupan Loaf,Bread,19,6.5,123.5,1.7,32.3
+2026-09-14,Mon,Dorayaki,Sweets,26,3.6,93.6,1.1,28.6
+2026-09-14,Mon,Taiyaki (Red Bean),Sweets,26,3.5,91,1.35,35.1
+2026-09-14,Mon,Matcha Roll Cake (slice),Cakes,18,5.8,104.4,3.35,60.3
+2026-09-14,Mon,Matcha Layer Cake (slice),Cakes,15,6.2,93,3.05,45.75
+2026-09-14,Mon,Matcha Dome Mousse,Cakes,14,6.8,95.2,4.25,59.5
+2026-09-14,Mon,Matcha Latte,Drinks,54,4.6,248.4,1.55,83.7
+2026-09-14,Mon,Iced Matcha,Drinks,35,4.9,171.5,1.75,61.25
+2026-09-14,Mon,Hojicha Latte,Drinks,21,4.4,92.4,1.1,23.1
+2026-09-14,Mon,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6
+2026-09-15,Tue,Matcha Melon Pan,Bread,45,3.8,171,1.15,51.75
+2026-09-15,Tue,Classic Melon Pan,Bread,23,3.4,78.2,0.85,19.55
+2026-09-15,Tue,Anpan,Bread,20,3.2,64,0.95,19
+2026-09-15,Tue,Curry Pan,Bread,19,4.2,79.8,1.4,26.6
+2026-09-15,Tue,Shokupan Loaf,Bread,15,6.5,97.5,1.7,25.5
+2026-09-15,Tue,Dorayaki,Sweets,26,3.6,93.6,1.1,28.6
+2026-09-15,Tue,Taiyaki (Red Bean),Sweets,24,3.5,84,1.35,32.4
+2026-09-15,Tue,Matcha Roll Cake (slice),Cakes,17,5.8,98.6,3.35,56.95
+2026-09-15,Tue,Matcha Layer Cake (slice),Cakes,16,6.2,99.2,3.05,48.8
+2026-09-15,Tue,Matcha Dome Mousse,Cakes,14,6.8,95.2,4.25,59.5
+2026-09-15,Tue,Matcha Latte,Drinks,60,4.6,276,1.55,93
+2026-09-15,Tue,Iced Matcha,Drinks,24,4.9,117.6,1.75,42
+2026-09-15,Tue,Hojicha Latte,Drinks,24,4.4,105.6,1.1,26.4
+2026-09-15,Tue,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-09-16,Wed,Matcha Melon Pan,Bread,48,3.8,182.4,1.15,55.2
+2026-09-16,Wed,Classic Melon Pan,Bread,30,3.4,102,0.85,25.5
+2026-09-16,Wed,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-09-16,Wed,Curry Pan,Bread,24,4.2,100.8,1.4,33.6
+2026-09-16,Wed,Shokupan Loaf,Bread,17,6.5,110.5,1.7,28.9
+2026-09-16,Wed,Dorayaki,Sweets,26,3.6,93.6,1.1,28.6
+2026-09-16,Wed,Taiyaki (Red Bean),Sweets,26,3.5,91,1.35,35.1
+2026-09-16,Wed,Matcha Roll Cake (slice),Cakes,19,5.8,110.2,3.35,63.65
+2026-09-16,Wed,Matcha Layer Cake (slice),Cakes,18,6.2,111.6,3.05,54.9
+2026-09-16,Wed,Matcha Dome Mousse,Cakes,14,6.8,95.2,4.25,59.5
+2026-09-16,Wed,Matcha Latte,Drinks,66,4.6,303.6,1.55,102.3
+2026-09-16,Wed,Iced Matcha,Drinks,28,4.9,137.2,1.75,49
+2026-09-16,Wed,Hojicha Latte,Drinks,22,4.4,96.8,1.1,24.2
+2026-09-16,Wed,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-09-17,Thu,Matcha Melon Pan,Bread,46,3.8,174.8,1.15,52.9
+2026-09-17,Thu,Classic Melon Pan,Bread,27,3.4,91.8,0.85,22.95
+2026-09-17,Thu,Anpan,Bread,24,3.2,76.8,0.95,22.8
+2026-09-17,Thu,Curry Pan,Bread,25,4.2,105,1.4,35
+2026-09-17,Thu,Shokupan Loaf,Bread,18,6.5,117,1.7,30.6
+2026-09-17,Thu,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-09-17,Thu,Taiyaki (Red Bean),Sweets,33,3.5,115.5,1.35,44.55
+2026-09-17,Thu,Matcha Roll Cake (slice),Cakes,19,5.8,110.2,3.35,63.65
+2026-09-17,Thu,Matcha Layer Cake (slice),Cakes,18,6.2,111.6,3.05,54.9
+2026-09-17,Thu,Matcha Dome Mousse,Cakes,17,6.8,115.6,4.25,72.25
+2026-09-17,Thu,Matcha Latte,Drinks,78,4.6,358.8,1.55,120.9
+2026-09-17,Thu,Iced Matcha,Drinks,27,4.9,132.3,1.75,47.25
+2026-09-17,Thu,Hojicha Latte,Drinks,23,4.4,101.2,1.1,25.3
+2026-09-17,Thu,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-09-18,Fri,Matcha Melon Pan,Bread,54,3.8,205.2,1.15,62.1
+2026-09-18,Fri,Classic Melon Pan,Bread,38,3.4,129.2,0.85,32.3
+2026-09-18,Fri,Anpan,Bread,33,3.2,105.6,0.95,31.35
+2026-09-18,Fri,Curry Pan,Bread,27,4.2,113.4,1.4,37.8
+2026-09-18,Fri,Shokupan Loaf,Bread,21,6.5,136.5,1.7,35.7
+2026-09-18,Fri,Dorayaki,Sweets,31,3.6,111.6,1.1,34.1
+2026-09-18,Fri,Taiyaki (Red Bean),Sweets,35,3.5,122.5,1.35,47.25
+2026-09-18,Fri,Matcha Roll Cake (slice),Cakes,24,5.8,139.2,3.35,80.4
+2026-09-18,Fri,Matcha Layer Cake (slice),Cakes,18,6.2,111.6,3.05,54.9
+2026-09-18,Fri,Matcha Dome Mousse,Cakes,16,6.8,108.8,4.25,68
+2026-09-18,Fri,Matcha Latte,Drinks,71,4.6,326.6,1.55,110.05
+2026-09-18,Fri,Iced Matcha,Drinks,36,4.9,176.4,1.75,63
+2026-09-18,Fri,Hojicha Latte,Drinks,28,4.4,123.2,1.1,30.8
+2026-09-18,Fri,Sencha (pot),Drinks,14,3.8,53.2,0.6,8.4
+2026-09-19,Sat,Matcha Melon Pan,Bread,80,3.8,304,1.15,92
+2026-09-19,Sat,Classic Melon Pan,Bread,47,3.4,159.8,0.85,39.95
+2026-09-19,Sat,Anpan,Bread,42,3.2,134.4,0.95,39.9
+2026-09-19,Sat,Curry Pan,Bread,40,4.2,168,1.4,56
+2026-09-19,Sat,Shokupan Loaf,Bread,27,6.5,175.5,1.7,45.9
+2026-09-19,Sat,Dorayaki,Sweets,44,3.6,158.4,1.1,48.4
+2026-09-19,Sat,Taiyaki (Red Bean),Sweets,43,3.5,150.5,1.35,58.05
+2026-09-19,Sat,Matcha Roll Cake (slice),Cakes,34,5.8,197.2,3.35,113.9
+2026-09-19,Sat,Matcha Layer Cake (slice),Cakes,24,6.2,148.8,3.05,73.2
+2026-09-19,Sat,Matcha Dome Mousse,Cakes,22,6.8,149.6,4.25,93.5
+2026-09-19,Sat,Matcha Latte,Drinks,95,4.6,437,1.55,147.25
+2026-09-19,Sat,Iced Matcha,Drinks,49,4.9,240.1,1.75,85.75
+2026-09-19,Sat,Hojicha Latte,Drinks,43,4.4,189.2,1.1,47.3
+2026-09-19,Sat,Sencha (pot),Drinks,17,3.8,64.6,0.6,10.2
+2026-09-20,Sun,Matcha Melon Pan,Bread,66,3.8,250.8,1.15,75.9
+2026-09-20,Sun,Classic Melon Pan,Bread,39,3.4,132.6,0.85,33.15
+2026-09-20,Sun,Anpan,Bread,38,3.2,121.6,0.95,36.1
+2026-09-20,Sun,Curry Pan,Bread,37,4.2,155.4,1.4,51.8
+2026-09-20,Sun,Shokupan Loaf,Bread,29,6.5,188.5,1.7,49.3
+2026-09-20,Sun,Dorayaki,Sweets,39,3.6,140.4,1.1,42.9
+2026-09-20,Sun,Taiyaki (Red Bean),Sweets,40,3.5,140,1.35,54
+2026-09-20,Sun,Matcha Roll Cake (slice),Cakes,33,5.8,191.4,3.35,110.55
+2026-09-20,Sun,Matcha Layer Cake (slice),Cakes,23,6.2,142.6,3.05,70.15
+2026-09-20,Sun,Matcha Dome Mousse,Cakes,23,6.8,156.4,4.25,97.75
+2026-09-20,Sun,Matcha Latte,Drinks,85,4.6,391,1.55,131.75
+2026-09-20,Sun,Iced Matcha,Drinks,36,4.9,176.4,1.75,63
+2026-09-20,Sun,Hojicha Latte,Drinks,34,4.4,149.6,1.1,37.4
+2026-09-20,Sun,Sencha (pot),Drinks,20,3.8,76,0.6,12
+2026-09-21,Mon,Matcha Melon Pan,Bread,43,3.8,163.4,1.15,49.45
+2026-09-21,Mon,Classic Melon Pan,Bread,31,3.4,105.4,0.85,26.35
+2026-09-21,Mon,Anpan,Bread,20,3.2,64,0.95,19
+2026-09-21,Mon,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-09-21,Mon,Shokupan Loaf,Bread,18,6.5,117,1.7,30.6
+2026-09-21,Mon,Dorayaki,Sweets,27,3.6,97.2,1.1,29.7
+2026-09-21,Mon,Taiyaki (Red Bean),Sweets,26,3.5,91,1.35,35.1
+2026-09-21,Mon,Matcha Roll Cake (slice),Cakes,20,5.8,116,3.35,67
+2026-09-21,Mon,Matcha Layer Cake (slice),Cakes,15,6.2,93,3.05,45.75
+2026-09-21,Mon,Matcha Dome Mousse,Cakes,12,6.8,81.6,4.25,51
+2026-09-21,Mon,Matcha Latte,Drinks,54,4.6,248.4,1.55,83.7
+2026-09-21,Mon,Iced Matcha,Drinks,33,4.9,161.7,1.75,57.75
+2026-09-21,Mon,Hojicha Latte,Drinks,24,4.4,105.6,1.1,26.4
+2026-09-21,Mon,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-09-22,Tue,Matcha Melon Pan,Bread,36,3.8,136.8,1.15,41.4
+2026-09-22,Tue,Classic Melon Pan,Bread,26,3.4,88.4,0.85,22.1
+2026-09-22,Tue,Anpan,Bread,20,3.2,64,0.95,19
+2026-09-22,Tue,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-09-22,Tue,Shokupan Loaf,Bread,15,6.5,97.5,1.7,25.5
+2026-09-22,Tue,Dorayaki,Sweets,23,3.6,82.8,1.1,25.3
+2026-09-22,Tue,Taiyaki (Red Bean),Sweets,28,3.5,98,1.35,37.8
+2026-09-22,Tue,Matcha Roll Cake (slice),Cakes,17,5.8,98.6,3.35,56.95
+2026-09-22,Tue,Matcha Layer Cake (slice),Cakes,13,6.2,80.6,3.05,39.65
+2026-09-22,Tue,Matcha Dome Mousse,Cakes,12,6.8,81.6,4.25,51
+2026-09-22,Tue,Matcha Latte,Drinks,59,4.6,271.4,1.55,91.45
+2026-09-22,Tue,Iced Matcha,Drinks,22,4.9,107.8,1.75,38.5
+2026-09-22,Tue,Hojicha Latte,Drinks,23,4.4,101.2,1.1,25.3
+2026-09-22,Tue,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-09-23,Wed,Matcha Melon Pan,Bread,44,3.8,167.2,1.15,50.6
+2026-09-23,Wed,Classic Melon Pan,Bread,28,3.4,95.2,0.85,23.8
+2026-09-23,Wed,Anpan,Bread,23,3.2,73.6,0.95,21.85
+2026-09-23,Wed,Curry Pan,Bread,24,4.2,100.8,1.4,33.6
+2026-09-23,Wed,Shokupan Loaf,Bread,16,6.5,104,1.7,27.2
+2026-09-23,Wed,Dorayaki,Sweets,26,3.6,93.6,1.1,28.6
+2026-09-23,Wed,Taiyaki (Red Bean),Sweets,26,3.5,91,1.35,35.1
+2026-09-23,Wed,Matcha Roll Cake (slice),Cakes,17,5.8,98.6,3.35,56.95
+2026-09-23,Wed,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,3.05,51.85
+2026-09-23,Wed,Matcha Dome Mousse,Cakes,15,6.8,102,4.25,63.75
+2026-09-23,Wed,Matcha Latte,Drinks,67,4.6,308.2,1.55,103.85
+2026-09-23,Wed,Iced Matcha,Drinks,27,4.9,132.3,1.75,47.25
+2026-09-23,Wed,Hojicha Latte,Drinks,23,4.4,101.2,1.1,25.3
+2026-09-23,Wed,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-09-24,Thu,Matcha Melon Pan,Bread,51,3.8,193.8,1.15,58.65
+2026-09-24,Thu,Classic Melon Pan,Bread,34,3.4,115.6,0.85,28.9
+2026-09-24,Thu,Anpan,Bread,24,3.2,76.8,0.95,22.8
+2026-09-24,Thu,Curry Pan,Bread,20,4.2,84,1.4,28
+2026-09-24,Thu,Shokupan Loaf,Bread,21,6.5,136.5,1.7,35.7
+2026-09-24,Thu,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-09-24,Thu,Taiyaki (Red Bean),Sweets,33,3.5,115.5,1.35,44.55
+2026-09-24,Thu,Matcha Roll Cake (slice),Cakes,19,5.8,110.2,3.35,63.65
+2026-09-24,Thu,Matcha Layer Cake (slice),Cakes,19,6.2,117.8,3.05,57.95
+2026-09-24,Thu,Matcha Dome Mousse,Cakes,14,6.8,95.2,4.25,59.5
+2026-09-24,Thu,Matcha Latte,Drinks,76,4.6,349.6,1.55,117.8
+2026-09-24,Thu,Iced Matcha,Drinks,32,4.9,156.8,1.75,56
+2026-09-24,Thu,Hojicha Latte,Drinks,25,4.4,110,1.1,27.5
+2026-09-24,Thu,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-09-25,Fri,Matcha Melon Pan,Bread,59,3.8,224.2,1.15,67.85
+2026-09-25,Fri,Classic Melon Pan,Bread,40,3.4,136,0.85,34
+2026-09-25,Fri,Anpan,Bread,34,3.2,108.8,0.95,32.3
+2026-09-25,Fri,Curry Pan,Bread,27,4.2,113.4,1.4,37.8
+2026-09-25,Fri,Shokupan Loaf,Bread,21,6.5,136.5,1.7,35.7
+2026-09-25,Fri,Dorayaki,Sweets,28,3.6,100.8,1.1,30.8
+2026-09-25,Fri,Taiyaki (Red Bean),Sweets,31,3.5,108.5,1.35,41.85
+2026-09-25,Fri,Matcha Roll Cake (slice),Cakes,28,5.8,162.4,3.35,93.8
+2026-09-25,Fri,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,3.05,51.85
+2026-09-25,Fri,Matcha Dome Mousse,Cakes,16,6.8,108.8,4.25,68
+2026-09-25,Fri,Matcha Latte,Drinks,69,4.6,317.4,1.55,106.95
+2026-09-25,Fri,Iced Matcha,Drinks,42,4.9,205.8,1.75,73.5
+2026-09-25,Fri,Hojicha Latte,Drinks,30,4.4,132,1.1,33
+2026-09-25,Fri,Sencha (pot),Drinks,16,3.8,60.8,0.6,9.6
+2026-09-26,Sat,Matcha Melon Pan,Bread,72,3.8,273.6,1.15,82.8
+2026-09-26,Sat,Classic Melon Pan,Bread,52,3.4,176.8,0.85,44.2
+2026-09-26,Sat,Anpan,Bread,44,3.2,140.8,0.95,41.8
+2026-09-26,Sat,Curry Pan,Bread,34,4.2,142.8,1.4,47.6
+2026-09-26,Sat,Shokupan Loaf,Bread,30,6.5,195,1.7,51
+2026-09-26,Sat,Dorayaki,Sweets,39,3.6,140.4,1.1,42.9
+2026-09-26,Sat,Taiyaki (Red Bean),Sweets,43,3.5,150.5,1.35,58.05
+2026-09-26,Sat,Matcha Roll Cake (slice),Cakes,37,5.8,214.6,3.35,123.95
+2026-09-26,Sat,Matcha Layer Cake (slice),Cakes,29,6.2,179.8,3.05,88.45
+2026-09-26,Sat,Matcha Dome Mousse,Cakes,26,6.8,176.8,4.25,110.5
+2026-09-26,Sat,Matcha Latte,Drinks,116,4.6,533.6,1.55,179.8
+2026-09-26,Sat,Iced Matcha,Drinks,51,4.9,249.9,1.75,89.25
+2026-09-26,Sat,Hojicha Latte,Drinks,38,4.4,167.2,1.1,41.8
+2026-09-26,Sat,Sencha (pot),Drinks,22,3.8,83.6,0.6,13.2
+2026-09-27,Sun,Matcha Melon Pan,Bread,66,3.8,250.8,1.15,75.9
+2026-09-27,Sun,Classic Melon Pan,Bread,51,3.4,173.4,0.85,43.35
+2026-09-27,Sun,Anpan,Bread,33,3.2,105.6,0.95,31.35
+2026-09-27,Sun,Curry Pan,Bread,33,4.2,138.6,1.4,46.2
+2026-09-27,Sun,Shokupan Loaf,Bread,29,6.5,188.5,1.7,49.3
+2026-09-27,Sun,Dorayaki,Sweets,41,3.6,147.6,1.1,45.1
+2026-09-27,Sun,Taiyaki (Red Bean),Sweets,43,3.5,150.5,1.35,58.05
+2026-09-27,Sun,Matcha Roll Cake (slice),Cakes,30,5.8,174,3.35,100.5
+2026-09-27,Sun,Matcha Layer Cake (slice),Cakes,22,6.2,136.4,3.05,67.1
+2026-09-27,Sun,Matcha Dome Mousse,Cakes,22,6.8,149.6,4.25,93.5
+2026-09-27,Sun,Matcha Latte,Drinks,110,4.6,506,1.55,170.5
+2026-09-27,Sun,Iced Matcha,Drinks,42,4.9,205.8,1.75,73.5
+2026-09-27,Sun,Hojicha Latte,Drinks,35,4.4,154,1.1,38.5
+2026-09-27,Sun,Sencha (pot),Drinks,19,3.8,72.2,0.6,11.4
+2026-09-28,Mon,Matcha Melon Pan,Bread,39,3.8,148.2,1.15,44.85
+2026-09-28,Mon,Classic Melon Pan,Bread,30,3.4,102,0.85,25.5
+2026-09-28,Mon,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-09-28,Mon,Curry Pan,Bread,21,4.2,88.2,1.4,29.4
+2026-09-28,Mon,Shokupan Loaf,Bread,18,6.5,117,1.7,30.6
+2026-09-28,Mon,Dorayaki,Sweets,27,3.6,97.2,1.1,29.7
+2026-09-28,Mon,Taiyaki (Red Bean),Sweets,31,3.5,108.5,1.35,41.85
+2026-09-28,Mon,Matcha Roll Cake (slice),Cakes,17,5.8,98.6,3.35,56.95
+2026-09-28,Mon,Matcha Layer Cake (slice),Cakes,15,6.2,93,3.05,45.75
+2026-09-28,Mon,Matcha Dome Mousse,Cakes,15,6.8,102,4.25,63.75
+2026-09-28,Mon,Matcha Latte,Drinks,68,4.6,312.8,1.55,105.4
+2026-09-28,Mon,Iced Matcha,Drinks,32,4.9,156.8,1.75,56
+2026-09-28,Mon,Hojicha Latte,Drinks,22,4.4,96.8,1.1,24.2
+2026-09-28,Mon,Sencha (pot),Drinks,10,3.8,38,0.6,6
+2026-09-29,Tue,Matcha Melon Pan,Bread,39,3.8,148.2,1.15,44.85
+2026-09-29,Tue,Classic Melon Pan,Bread,27,3.4,91.8,0.85,22.95
+2026-09-29,Tue,Anpan,Bread,23,3.2,73.6,0.95,21.85
+2026-09-29,Tue,Curry Pan,Bread,20,4.2,84,1.4,28
+2026-09-29,Tue,Shokupan Loaf,Bread,18,6.5,117,1.7,30.6
+2026-09-29,Tue,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-09-29,Tue,Taiyaki (Red Bean),Sweets,27,3.5,94.5,1.35,36.45
+2026-09-29,Tue,Matcha Roll Cake (slice),Cakes,20,5.8,116,3.35,67
+2026-09-29,Tue,Matcha Layer Cake (slice),Cakes,14,6.2,86.8,3.05,42.7
+2026-09-29,Tue,Matcha Dome Mousse,Cakes,14,6.8,95.2,4.25,59.5
+2026-09-29,Tue,Matcha Latte,Drinks,51,4.6,234.6,1.55,79.05
+2026-09-29,Tue,Iced Matcha,Drinks,22,4.9,107.8,1.75,38.5
+2026-09-29,Tue,Hojicha Latte,Drinks,24,4.4,105.6,1.1,26.4
+2026-09-29,Tue,Sencha (pot),Drinks,12,3.8,45.6,0.6,7.2
+2026-09-30,Wed,Matcha Melon Pan,Bread,43,3.8,163.4,1.15,49.45
+2026-09-30,Wed,Classic Melon Pan,Bread,34,3.4,115.6,0.85,28.9
+2026-09-30,Wed,Anpan,Bread,22,3.2,70.4,0.95,20.9
+2026-09-30,Wed,Curry Pan,Bread,20,4.2,84,1.4,28
+2026-09-30,Wed,Shokupan Loaf,Bread,17,6.5,110.5,1.7,28.9
+2026-09-30,Wed,Dorayaki,Sweets,25,3.6,90,1.1,27.5
+2026-09-30,Wed,Taiyaki (Red Bean),Sweets,28,3.5,98,1.35,37.8
+2026-09-30,Wed,Matcha Roll Cake (slice),Cakes,23,5.8,133.4,3.35,77.05
+2026-09-30,Wed,Matcha Layer Cake (slice),Cakes,17,6.2,105.4,3.05,51.85
+2026-09-30,Wed,Matcha Dome Mousse,Cakes,16,6.8,108.8,4.25,68
+2026-09-30,Wed,Matcha Latte,Drinks,63,4.6,289.8,1.55,97.65
+2026-09-30,Wed,Iced Matcha,Drinks,28,4.9,137.2,1.75,49
+2026-09-30,Wed,Hojicha Latte,Drinks,27,4.4,118.8,1.1,29.7
+2026-09-30,Wed,Sencha (pot),Drinks,11,3.8,41.8,0.6,6.6

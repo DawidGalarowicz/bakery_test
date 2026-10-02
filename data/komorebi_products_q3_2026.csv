@@ -1,0 +1,15 @@
+product,category,price_gbp,unit_cost_gbp,gross_margin_pct,active
+Matcha Melon Pan,Bread,3.8,1.15,0.697,Yes
+Classic Melon Pan,Bread,3.4,0.85,0.75,Yes
+Anpan,Bread,3.2,0.95,0.703,Yes
+Curry Pan,Bread,4.2,1.4,0.667,Yes
+Shokupan Loaf,Bread,6.5,1.7,0.738,Yes
+Dorayaki,Sweets,3.6,1.1,0.694,Yes
+Taiyaki (Red Bean),Sweets,3.5,1.35,0.614,Yes
+Matcha Roll Cake (slice),Cakes,5.8,3.35,0.422,Yes
+Matcha Layer Cake (slice),Cakes,6.2,3.05,0.508,Yes
+Matcha Dome Mousse,Cakes,6.8,4.25,0.375,Yes
+Matcha Latte,Drinks,4.6,1.55,0.663,Yes
+Iced Matcha,Drinks,4.9,1.75,0.643,Yes
+Hojicha Latte,Drinks,4.4,1.1,0.75,Yes
+Sencha (pot),Drinks,3.8,0.6,0.842,Yes
